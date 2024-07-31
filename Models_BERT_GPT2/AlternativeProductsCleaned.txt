@@ -1,0 +1,740 @@
+	plain flour : 
+        oat flour, bread flour, cake flour or coconut flour : 
+        olive oil : 
+        peanut oil, butter, coconut milk, ghee, walnut oil, sunflower oil, canola oil or vegetable oil : 
+        salt : 
+        mint, rosemary, nutmeg, basil, cardamon, chili, cinnamon or chives : 
+        black pepper : 
+        white pepper, cayenne pepper or papaya seeds : 
+        eggs : 
+        commerical egg substitute or tofu : 
+        milk : 
+        cream, powerdered milk, plain yogurt, nut milk, soy milk, oat milk or rice milk : 
+        sausage : 
+        vegetarian sausages : 
+        mustard : 
+        turmeric, wasabi powder or horseradish powder : 
+        beef stock : 
+        vegetable stock, chicken stock, bouillion stock or red wine : 
+        cabbage : 
+        brussels sprouts, yu choy, kangkong or bok choy : 
+        garlic : 
+        garlic oil, onion, chives or lemon zest : 
+        mixed herbs : 
+        basil, marjoram, min, oregano or parsley : 
+        butter : 
+        olive oil, ghee, greek yogurt, avocado, pumpkin puree or coconut oil : 
+        potato : 
+        cauliflower or cabbage : 
+        frozen peas : 
+        lima beans, green pepper, green onion or broad beans : 
+        mushrooms : 
+        zucchini, eggplant, chickpeas, tofu, onions or cilantro : 
+        oat meal : 
+        amaranth, teff, buckwheat, wheat berries, spelt or quinoa : 
+        yeast : 
+        baking powder. baking soda or sourdough : 
+        bacon : 
+        pork, chicken or turkey bacon : 
+        tomatoes : 
+        olives, red peppers or red capsicum : 
+        baked beans : 
+        peas or chickpeas : 
+        paprika : 
+        catenne pepper, chili powder or chili flakes : 
+        feta : 
+        ricotta, halloumi, goats cheese or queso fresco : 
+        parsley : 
+        chervil, tarragon, chives, oregano, arugula, endive, cilantro or basil : 
+        cheddar : 
+        cantal, edam, mimolette, gouda, emmental or french gruyere : 
+        pork fillet : 
+        pork sirloin, pork tenderloin, chicken, turkey or beef : 
+        red peppers : 
+        poblano peppers, cubanelle, anaheim peppers, pepperoncini, jalapeno, pimiento, zucchini or broccoli : 
+        courgette : 
+        cucumber or zucchini : 
+        chickpeas : 
+        green peas, cannellini beans, black beans, lentils, soybeans, mung beans, peanuts or hazelnuts : 
+        chicken stock : 
+        beef stock or vegatable stock : 
+        muscovado sugar : 
+        demerara sugar or brown sugar : 
+        balsamic vinegar : 
+        red wine vinegar, lemon juice or lime juice : 
+        paraham : 
+        smoked ham, pork chops, bacon, prosciutti or cooked ham : 
+        passata : 
+        tomatoes. pasta sauce, tomato paste, ketchup or fresh tomatoes : 
+        goats cheese : 
+        cream cheese, mascarpone cheese, feta cheese or ricotta cheese : 
+        basil : 
+        marajoram, mint, parsley, oregano or thyme : 
+        golden syrup : 
+        honey, cane syrup or brown rice syrup : 
+        breadcrumbs : 
+        oats, chrshed chips, nuts, crackers, pretzels or cereal : 
+        lemon : 
+        lime. orange, white wine, cream of tartar or citric acid : 
+        sunflower oil : 
+        vegetable oil, peanut oil, canola oil, walnut oil, butter, safflower oil, corn oil or grapeseed oil : 
+        sweet potato : 
+        garnet potatoes, jewel potatoes, yukon potatoes, carrots, parsnips, pumpkin or butternut : 
+        apple : 
+        pear : 
+        curry powder : 
+        cumin, coriander, chilli, tumeric or black pepper : 
+        tomato puree : 
+        tomato sauce, pizza sauce, tomato, canned tomatoes or ketchup : 
+        mango chutney : 
+        apricot, mango salsa or marmalade : 
+        basmati rice : 
+        jasmine rice, brown rice, white rice or texmati rice : 
+        sour cream : 
+        greek jogurt, cottage cheese, creme fraiche or buttermilk : 
+        coriander : 
+        cumin, garam masala, curry powder or caraway : 
+        braising steak : 
+        diced beef, sirloin steak or rump steak : 
+        brown ale : 
+        beef stock, chicken stock or vegatable stock : 
+        celery : 
+        fennel, onion, scallions, carrots, shallots, garlic, chives or leeks : 
+        bay leaf : 
+        thyme, oregano or boldo leaf : 
+        thyme : 
+        oregano, marjoram, rosemary, savoury or basil : 
+        carrots : 
+        parsnips, daikon, turnip or celery : 
+        onions : 
+        leeks, chives, garlic, carrors or tomatoes : 
+        cornstarch : 
+        wheat flour, arrowroot, potao starch, rice flour, ground flaxseeds, glucomannan or psyllium husk : 
+        pectin : 
+        citrus peels, cornstarch or geletine : 
+        heavy cream : 
+        milk and butter combined, soy milks and olive oil, milk and cornstarch, greek yogurt, evaporated milk or cottage cheese and milk : 
+        vegetable shortening : 
+        butter or magarine : 
+        vanilla extract : 
+        maple syrup, almond extract, bourbon, brandy, rum :             
+        powdered sugar : 
+        sweetner or cornstarch :             
+        maple syrup : 
+        honey, corn syrup or agave nectar :             
+        sprinkles : 
+        brown sugar or honey :             
+        cinnamon powder : 
+        all spice or or nutmeg :             
+        cooking spray : 
+        butter or olive oil : 
+        canned pumpkin : 
+        mashed sweet potato or butternut squash :             
+        brown sugar : 
+        white sugar, honey, maple syrup, coconut sugar or muscovado sugar :             
+        pumpkin : 
+        butternut, honeynut or acorn squash :             
+        cinamon : 
+        cassia, allspice, clives, nutmeg or cardamom :             
+        nutmeg : 
+        mace, garam masala, allspice, cinnamon, apple pie spice, giner or cloves :             
+        allspice : 
+        cinnamon, nutmeg, cloves or applie pie spice :             
+        ground cloves : 
+        allspice, caradamon, pumpkin pie spice or cinnamon :             
+        ginger : 
+        cardamom, allspice, cinnamon, nutmeg or mace :             
+        berbere seasoning : 
+        cayenne pepper or ras el hanout :             
+        tomato paste : 
+        soy sauce, olive tapenade, canned tomatoes or tomato ketchup :             
+        red lentils : 
+        yellow lentils or green lentils :             
+        strawberries : 
+        rasberries, red grapes or blueberries :             
+        pineapple : 
+        apple, orange, kiwi or grape :             
+        red onion : 
+        yellow onions, leeks, shallots or onion juice, poweder or flakes :             
+        cilantro : 
+        parsley, mint, basil, chives, green onions, dill or carrot greens :             
+        key lime juice : 
+        lemon juice or lemon extract :             
+        unsalted butter : 
+        maragarine, vegetable shortening, coconut oil or salted butter :             
+        egg yolk : 
+        apple sauce, mashed banana, ground flaxseeds, chia seeds, commerial egg replacer, silken tofu or buttermilk :             
+        pear : 
+        apples, asain pears, quinces, figs or pepinos :             
+        lemon juice : 
+        lime juice, orange juice, vinegar, citric acid, white wine, lemon extract or cream or tartar :             
+        black beans : 
+        chickpeas, kidney beans, lentils, cauliflower or nuts : 
+        pork ribs : 
+        pork chops, or pork belly :             
+        smokey bacon : 
+        liquid smoke, smoked paprila, veggie bacon, dark beer or blackstrap moasses :             
+        pork belly : 
+        pork chops or pork ribs :             
+        dried chili : 
+        serrano pepper, cayenne pepper, pequin chili or jalapeno :             
+        cumin : 
+        ground coriander, caraway seeds, chili powder, taco seasoning, curry powder or garam masala :             
+        oregano : 
+        mint, parsley or poultry seasoning :             
+        beans : 
+        tofu, sourgram, cauliflowder florets, tempeh, quinoa, peas or eggplant :             
+        long grain rice : 
+        white rice, brown rice or egg friend rice :             
+        star anise : 
+        allspice, chinese five spice powder or chili powder :         
+        spring onions : 
+        challots, green onions, red onions or celery :             
+        miso paste : 
+        soy sauce, salt, tahini or vegetable stock :             
+        mirin : 
+        dry sherry or sweet masala wine :             
+        soy sauce : 
+        tamari, worcestershire sauce, coconut aminos, miso paste or maggi seasoning :             
+        shiitake mushrooms : 
+        portobello mushrooms, crimini mushrooms or porcini mushrooms :             
+        baby spinach : 
+        rocket, spinach, watercress or beet greens :             
+        white pepper : 
+        ground giner, ground mustard or pink peppercorns :             
+        furikake : 
+        crumbled nori seaweed, sesame seeds or togarashi :             
+        pasta : 
+        spaghetti, eggplant lasagna, cabbage noodles, sprouts or onion noodles :             
+        curry leaves : 
+        lime zest, bay leves, basil leaves, lemon zest or daun salam leaves :             
+        asafoetida : 
+        garlic powder, garlic cloves or :             
+        peanuts : 
+        beans, pretzels, seeds, tahini, sunflower seeds or almonds :     
+        almonds : 
+        breadcrumbs, ground rice, semolina or polenta : 
+        sesame seeds : 
+        poppy seeds or hemp seeds :             
+        golden raisins : 
+        pitted dates, prines or dried cranberries :             
+        cashew nuts : 
+        pine nuts, almonds, walknuts, hazelnuts or sunflower seeds :             
+        green chili : 
+        banana pepper, anaheim pepper, poblano pepper, jalapeno, serrano or chilli powder :             
+        rib roast : 
+        prok belly or pork chops,  :             
+        kosher salt : 
+        sea saly, brine or coarse himalayan pink salt :             
+        worcestershire sauce : 
+        soy sauce, miso paste, soy sauce and ketcup r soy cause and apple sauce :      
+        liquid smoke : 
+        smoked paprika, smoke tea or chipotle powder :             
+        beef broth : 
+        vegetable broth, bouillon cubes, soy sauce or mushroom broth :             
+        mustard powder : 
+        tumeri powder, wasabi powder or mustard seed :             
+        coriander powder : 
+        cumin, garam masala, curry powder or caraway :             
+        onion powder : 
+        onion flakes, minced onion, fresh onion or garlc powder :             
+        bay leaves : 
+        dried thyme or oregano :             
+        dried thyme : 
+        oregano, marjoram, rosemary, savoury or basil :             
+        rosemary : 
+        thyme, tarragon or savory :             
+        yellow pepper : 
+        red pepper, green pepper, orange bell peppers :             
+        chorizo : 
+        smoked paprika or bacon rind :             
+        cannellini beans : 
+        red kideny beans, great northen beans or navy beans : 
+        italian seasoniong : 
+        basil, marjoram, oregano, rosemary or thyme : 
+        garlic salt : 
+        garlic powder, kosher salt, garlic cloves or garlic powder and salt :             
+        pepe pasta : 
+        arugula or kale :             
+        parmesan cheese : 
+        gran padano or american grana, dry jack or pecorino : 
+        spinach : 
+        argula or kale :             
+        ricotta : 
+        goats cheese, cottage cheese, sour cream, cream cheese or queso fresco :             
+        boiled ham : 
+        candian bacon or gammon :             
+        spice rub : 
+        BBQ seasoning, italian seasoning or allspiace :             
+        cayenne pepper : 
+        chili powder, paprika or red chili flakes :             
+        peanut sauce : 
+        almond butter or cashew butter :             
+        jalapeno pepper : 
+        serrano pepper, fresno pepper, anaheim pepper pr pblano pepper :             
+        chicken broth : 
+        beef stock, vegetable stock or lamb stock :             
+        peanut butter : 
+        sunflower seed butter, cookie butter, or coconut butter :             
+        coconut milk : 
+        soy milk, almond milk, oat milk or rice milk :             
+        figs : 
+        raisins, prines or dried apriocots :             
+        honey : 
+        date paste, agave nectar, maple syrup or brown rice sugar :             
+        apple vinegar : 
+        rice vinegar, red wine vinegar, lemon juice or champagne vinegar :             
+        deli ham : 
+        roasted chicken or canned salmon :             
+        swiss cheese : 
+        fontina cheese, cheddar cheese or mozzerella cheese :             
+        milk yoghurt : 
+        buttermilk, or sour cream :             
+        confectioners sugar : 
+        granulated sugar or brown sugar :             
+        low fat greek yogurt : 
+        buttermilk, tofu, cottage cheese or sour cream :             
+        butternut squash : 
+        buttercup squash, pupkin, carrots or acorn squash :             
+        chili flakes : 
+        cayenne pepper, black cardamon or fennel seeds :             
+        broccoli : 
+        kale, leafy greens, asparagus, or baby spinach leaves :             
+        gorgonzola : 
+        roquefort, stilon, danish blue or creamy blue cheese :             
+        leek : 
+        green onions, red onions, challots or celery :             
+        fennel : 
+        anise seeds, cumin seeds, caraway seeds or dill :             
+        acord squash : 
+        butternut squash or pumpkin squash :             
+        sea slat flakes : 
+        table salt or maldon salt :             
+        tarragon : 
+        dill, basil or marjoram :             
+        hazelnuts : 
+        walnuts, macadamia nuts or almonds :             
+        mature cheddar cheese : 
+        gouda or parmesan cheese :             
+        tilapia : 
+        catfish, striped bass, red snapper or rainbow trout :             
+        panko breadcrumbs : 
+        regular breadcrumbs, cracker crumbs, matzo meal, crushed cornflakes or dry stuffing mix :             
+        parmesan cheese : 
+        grana padano, piave cheese or pecorino :             
+        paprika : 
+        cayenne pepper, chili powder, chili flakes or red chili :             
+        cream cheese : 
+        cottage cheese, mascarphone, tofu, ricotta cheese or sour cream :             
+        hot sauce : 
+        chili powder, chili flakes, harissa, or curry paste :             
+        tortilla wraps : 
+        lettice wraps or pita bread :             
+        marrow : 
+        courgette or squash :             
+        semolina : 
+        flour, bread flour or whole wheat flour :        
+        northen beans : 
+        navy beans, cannellini beans or lima beans :             
+        dry mustard powder : 
+        dijon mustard or tumeric :                         
+        ansjovis : 
+        shrimp, shrimp paste, capers or asian fish sauce :             
+        shallots : 
+        sweet onions, leeks, garlic scapes, red onions or green onions :             
+        tumeric : 
+        ginger powder, cumin, saffron or annatto powder :             
+        galangal : 
+        fresh ginger or ginger powder :             
+        lemongrass : 
+        lemon grass, lemon juice, lime zest or lemon balm :             
+        dry yeast : 
+        equal parts lemon juice and baking soda :             
+        almonds : 
+        breadcrumbs, ground rice and polenta :             
+        aniseed : 
+        star anise, fennel seed, teaspoon caraway seed or chopped tarragon :             
+        asparagus : 
+        broccoli, celery, green beans or lettuce :             
+        jicama : 
+        daikon radish or jerusalem artichokes :             
+        red cabbage : 
+        white cabbage or napa cabbage :             
+        purple cabbage : 
+        napa cabbage, breussels sprouts, bok choy and celery :             
+        lettuce : 
+        spinach or parsley :             
+        blueberries : 
+        acai berries, blackberries, huckleberries, raspberries or currents :             
+        mint : 
+        peppermint or parsely :             
+        mine confit zest : 
+        lemon zest or lime zest :             
+        chinese oyster sauce : 
+        soy sauce, hoisin sauce or fish sauce :             
+        apple cider vinegar : 
+        red wine, white wine or sherry vinegar :             
+        saffron : 
+        turmeric or cumin :             
+        mussels : 
+        shrimp, prawns or clam :             
+        prawns : 
+        mussels, clam or shrimp :             
+        monkfish : 
+        snapper, sea bass, halibut or sea scallops :             
+        squid : 
+        prawns oe firm white fish :             
+        risotto rice : 
+        brown rice, sushi rice, basmati rice or quinoa : 
+        dry white wine : 
+        apple cider vinegar, chicken broth, white grape juice or ginger ale :             
+        chicken legs : 
+        chicke drumsticks or chicken thighs :             
+        cherry tomatoes : 
+        olives, red pepper or canned tomatoes :             
+        capers : 
+        green olives, anchovies or pickles :             
+        djion mustard : 
+        yellow mustard, honey mustard, wasabi or mayonnaise :             
+        beef bouillon : 
+        chicken broth or vegetable stock :             
+        celery seeds : 
+        flat leaf parsley or dill seed :             
+        chickpeas : 
+        green peas, lentils, soybeans, mung beans or peanuts :             
+        lamb stock : 
+        chicken stock or vegetable stock :             
+        canned tomatoes : 
+        fresh tomatoes, sun dried tomatoes or red peppers : 
+        caramilk chocolate : 
+        white chocolate, milk chocolate or dark chocolate :
+        coca : 
+        jackfruit seeds : 
+        garam masala : 
+        curry powder, allspice powder or chaat powder : 
+        arbol chili powder : 
+        cayenne powder or generic chili powder : 
+        ghee : 
+        olive oil, coconut oil, canola oil, soybean oil, sunflower oil or butter : 
+        turkey tenderloin : 
+        turkey breast fillets or turkey bacon : 
+        Egg noodles : 
+        fettucine, ribbon pasta, linguine or brown / white rice : 
+        Chicken liver : 
+        duck liver, turkey liver or goose liver : 
+        Chicken gizzard : 
+        turkey gizzard or goose gizzard : 
+        Bell pepper : 
+        anahiem peppers, Jalapenos, pimiento or zucchini : 
+        Small head wombok : 
+        other cabbages such as red, white or napa cabbage : 
+        Oyster sauce : 
+        soy sauce, sweet soy sauce, hoisin sauce or plumb sauce : 
+        Calamansi : 
+        lemon and lime juices : 
+        Dry white wine : 
+        white wine vinegar : 
+        Orange Roughy : 
+        perch, blackfish, flounder, sole, haddock or red snapper : 
+        Limes : 
+        orange, lemon or zest : 
+        Serrano peppers : 
+        jalapeno, habanero, cayenne, guero or poblano pepper : 
+        Avocado : 
+        chai seeds or tree nuts : 
+        Honey : 
+        rice maly syrup, brown rice syrup, molasses, coconut syrup, maple syrup or golden syrup : 
+        Roma tomato : 
+        polish paste, plum or oxheart tomatoes : 
+        Yellow rice : 
+        white rice, brown rice, long grain rice or egg fried rice : 
+        Bisquick : 
+        1 cup of all purpose flow mixed with 1 and a half teaspoons of baking powder, half a teaspoon or salt and one tablespoon of vegetable oil : 
+        Smoked paprika : 
+        hungarian paprika, sweer paprika, chipolatle chili or liquid smoke : 
+        split pig's feet : 
+        ham hocks or ham shanks :     
+        chicken bouillon cube : 
+        chicken broth, dry white wine, poultry seasoning with water : 
+        butternut squash and beet noodles : 
+        cucumber noodles,carrot noodles, raddish noodles, summer squash noodles, spiralized kohlrabi, sweet potato noodles or zucchini noodles : 
+        bosc pears : 
+        asian pears, apples, quinces or figs : 
+        pecans : 
+        hazelnuts, pistachios, macadamia nuts, brazil nuts, walnuts or pecan oil : 
+        canola oil : 
+        grapeseed oil, vegetable oil or sunflower oil : 
+        vodka : 
+        water, apple cide vinegar or white grae juice mixed with lime juice  aquavit, tequila or white rum : 
+        cane sugar : 
+        honey, maple syrup, applesauce, caster sugar, brown sugar, raw sugar, powdered sugar, molasses or corn syrup : 
+        apple cider vinegar : 
+        red or white wine vinegar, rice vinegar, sherry vinegar, champagne vinegar or lemon juice : 
+        jasmine rice : 
+        basmati rice or long-grain rice : 
+        ground cinnamon : 
+        nutmeg, cloves, allspice or apple pie spice : 
+        canned plum tomatoes : 
+        regular tomatoes and tomato paste, fresh tomatoes and canned whole tomatoes or sun-dried tomatoe : 
+        can of tomato sauce : 
+        ketchup, tomato soup or tomato paste : 
+        can of tomato sauce : 
+        asian pears, apples, quinces or figs : 
+        coconut cream : 
+        coconut milk, whipping cream, nut butter, tahini, greek yogurt or creamy tomato sauce : 
+        sugar : 
+        honey, maple syrup, applesauce, molasses, cane sugar or brown sugar : 
+        all-purpose flour : 
+        chickpea flour, rice flour, almond flour, buckwheat flour or a mixture of bread flour with cake flour : 
+        baking powder : 
+        buttermilk, plain yogurt, molasses, cream of tartar, sour milk, vinegar, lemon juice, baking soda, self-rising flour or whipped egg whites : 
+        baking soda : 
+        baking powder, potassium bicarbonate and salt, self-rising flour or baker's ammonia : 
+        grated nutmeg : 
+        ground nutmeg, mace, garam masala, allspice, cinamon, pumpkin pie spice, appke pie spice, ginger or cloves : 
+        ginger powder : 
+        ground allspice, ground cinnamon, ground mace or ground nutmeg : 
+        granulated sugar : 
+        honey, maple syrup, applesauce, caster sugar, brown sugar, powdered sugar, molasses or corn syrup : 
+        packed light brown sugar : 
+        white sugar and molasses, honey, white sugar and maple syrup, coconut sugar, maple syryp, agave nectar or plain white sugar : 
+        canned unsweetened pumpkin puree : 
+        frozen butternut squash, sweet potatoes, roasted acorn squash or fresh pumpkin puree : 
+        cranberries : 
+        apricots, apples, cherries, raspberries blueberries or currants : 
+        maple syrup : 
+        honey, brown sugar, white sugar, molasses orcorn syrup : 
+        turkey neck : 
+        chicken quarters : 
+        celery sticks : 
+        fennel, onion, scallions, carrots, shallots, garlic, chives or leeks : 
+        tamari : 
+        soy sauce, fish sauce, salt, miso paste, teriyaki sauce or maggi seasoning : 
+        walnuts : 
+        almonds, cashews, filberst, brazil nuts or macadamia nuts : 
+        whole milk : 
+        semi-skimmed milk, double cream, yogurt, sour cream, soy milk or coconut milk : 
+        red currant : 
+        raisins, dried dates, dried prunes, dried cherries, cranberries or jujube : 
+        raspberry jelly : 
+        strawberry jelly, cranberry jelly or red currants : 
+        bittersweet chocolate : 
+        unsweetened baking chocolate and sugar or semisweet chocolate with cocoa powder : 
+        unsweetened cocoa powder : 
+        melted unsweetened baking chocolate, dutch-processed cocoa or carob powder : 
+        buttermilk : 
+        milk and vinegar, milk and lemon juice, milk and cream of tartar, sour cream and water, plain yogurt and water or plain kefir : 
+        semisweet chocolate chips : 
+        bittersweet baking chocolate, unsweetened cocoa powder, or unsweetened baking chocolate : 
+        cream of tartar : 
+        lemon juice, white vinegar, baking powder, buttermilk or yogurt : 
+        egg whites : 
+        aquafaba, ground flax seeds and water, agar powder and water or chia seeds and water : 
+        dark brown sugar : 
+        white sugar and molasses, honey, white sugar and maple syrup, coconut sugar, maple syryp, agave nectar or plain white sugar : 
+        vegetable oil : 
+        canola oil, sunflower oil, peanut oil or grapeseed oil : 
+        ground nutmeg : 
+        grated nutmeg, mace, garam masala, allspice, cinamon, pumpkin pie spice, appke pie spice, ginger or cloves : 
+        old-fashioned rolled-oats : 
+        qionoa flakes, stell-cut oats or instant oats : 
+        raisins : 
+        dried currants, dried cherries, dried cranberries, dried prunes, dried sates, dried apricot or dried pineapple : 
+        vanilla : 
+        maple syrup, almond extract, bourbon, instant coffee, expresso powder or citrus zest : 
+        lemon zest : 
+        lemon extract, lemon juice, another citrus zest or lemon peel : 
+        parsnips : 
+        turnips, celery root, carrots, salsify, sweet potatoes or parsley root : 
+        thyme leaves : 
+        oregano, majoram, basil, savory, poultry seasoning, italian seasoning, za'taar or herbes de provence : 
+        white bread : 
+        oopsie bread, ezekiel bread, corn tortillas or rye bread : 
+        canned cannellini beans : 
+        red kidney beans, great northern beans, navy beans, baby lima beans, butter beans, garbanzo beans, borlotti beans or black beans : 
+        baby lima beans : 
+        fava beans, red kidney beans or white kidney beans : 
+        large egg : 
+        any other size of egg : 
+        powdered gelatin : 
+        agar agar powder, pectin powder, carrageean or guar gum : 
+        ground beef : 
+        mushrooms, ground poultry, textured vegetable protein, lentils, tempeh, tofu, seitan or beans : 
+        prociutto : 
+        ham, bacon, pancetta, capiola or spanish serrano ham : 
+        parsley leaves : 
+        cilantro, celery leaves, carrot greens, chives or chervil : 
+        crsuhed tomatoes : 
+        fresh tomatoes, diced tomatoes, tomato paste, tomato puree, whole peeled tomatoes or pasta sauce : 
+        cooking wine : 
+        white grape juice and apple juice, apple cider, cranberry juice, ginger ale, white wine vinegar, red wine vingear, lemon juice, chicken broth or vegetable broth : 
+        spaghetti : 
+        vermicelli, angel hair pasta or rice stick noodles : 
+        red potatoes : 
+        yukon gold potatoes, white potatoes, yellow potatoes or russet potato : 
+        chicken breasts : 
+        chicken cacciatora, shrimp aragonate, grilled scallops, seared duck breasts or roast trukey breasts : 
+        marsala red wine : 
+        madeira, fortified wine, dru sherry, sherry wine and sweet vermouth, amontillado wine and pedro ximenez, port, white grape juice with brandy, non-fortified wine, pinot noir or dry white wine : 
+        unflavoured gelatin : 
+        kudzu, pectin and sugar, arrowroot or agar agar : 
+        porcini mushrooms : 
+        shiitake mushrooms, dried reconstituted shiitake mushrooms, mixed mushrooms or fresh button mushrooms : 
+        cremini mushrooms : 
+        white button mushrooms, portobello mushrooms, shiitake mushrooms or aubergine : 
+        white mushrooms : 
+        courgette, sun dried toamtoes, aubergine, garbanzo beans, russel potatoes, tofu or onions : 
+        pasta sauce : 
+        toamato paste, ketchup or tomato soup : 
+        lasagna noodles : 
+        macaroni with tomato sauce or flat-sliced courgette : 
+        mozzarella cheese : 
+        white cheddar cheese, provolone, gouda, parmesan, ricotta or feta cheese : 
+        baking spray : 
+        butter or lard : 
+        gruyere cheese : 
+        comte cheese, beaufort cheese, jalsberg cheese, emmentaler cheese, fontina and parmesan cheese, maasdam and edam cheese or raclette cheese : 
+        cherries : 
+        canned cherries, fresh plums, fresh apricots or fresh nectarines : 
+        yellow onions : 
+        red onion or white onion, ricotta or feta cheese : 
+        mixed mushrooms : 
+        courgette, sun dried toamtoes, aubergine, garbanzo beans, russel potatoes, tofu or onions : 
+        dried white beans : 
+        dried cannellini beans, dried navy beans, dried red beans or dried pinto beans : 
+        canned peeled tomateos : 
+        crushed tomatoes, diced tomatoes or fresh tomatoes : 
+        swiss chard : 
+        mature spinach, mustard greens, kale or large bok choy : 
+        kale : 
+        collard greens, english spinach, baby spinach, swiss chard, mustard greens, chinese broccoli, broccoli raab or turnip : 
+        almond flour : 
+        wheat flour, all-purpose flour, cashew flour, macadamia flour, sunflower seed flour, oat flour or a combination of tapioca flour with coconut flour : 
+        almond extract : 
+        vanilla extract or almond flavoured liquor : 
+        rose water : 
+        rose essence, jamaica flower water,orange flower water, vanilla extract, almond extract, lavender, lemon juice or cardamom : 
+        food colouring : 
+        liquid chlorophyll, matcha powder, spirulina powder, whatgrass juice or parsley juice : 
+        marzipan : 
+        almond paste : 
+        dried black beans : 
+        kidney beans, pinto beans, lentils, soyebans, chickpeas or peas : 
+        lime juice : 
+        lemon juice, lime zest, orange juice or white wine vinegar : 
+        red bell pepper : 
+        poblano peppers, anaheim peppers, jalapeños, sichuan peppers, cubanelle or red, yellow or orange peppers : 
+        cocoa powder : 
+        a chocolate bar, chocolate chips, chocolate coverture, hot chocolate drink powder or carob powder : 
+        agave syrup : 
+        honey, simple syrup, maple syrup, brown rice syrup, white sugar, corn syrup or any artificial sweeteners : 
+        nutella : 
+        any other chocolate spread or hazelnut and chocolate spread : 
+        maraschino cherries : 
+        fresh cherries, amarena cherries or luxardo maraschino cherries : 
+        maraschino cherry juice : 
+        cherry juice with sugar : 
+        greek yogurt : 
+        plain yogurt, sour cream, buttermilk, cottage cheese or silken tofu : 
+        roasted chicken meat : 
+        rotisserie chicken meat : 
+        old bay seasoning : 
+        instead you can make your own by combining 1 tablespoon celery salt, 3 whole bay leaves, 3/4 teaspoon brown mustard seeds, 1/2 teaspoon black peppercorns, 10 allspice berries, 10 whole cloves and 1/2 teaspoon paprika or use crab boil or pickling spice : 
+        unsalted butter : 
+        shortening, vegetable oil or lard : 
+        butterscotch chips : 
+        caramel chips, chocolate chips or carob chips : 
+        sirloin steak : 
+        ribeye steak, new York strip steaks, round steak or flank steak : 
+        dry mustard : 
+        dijon mustard or yellow mustard : 
+        white wine : 
+        apple cider vinegar, chicken broth, apple juice, grape juice, white wine vinegar or ginger ale : 
+        cauliflower : 
+        broccoli, courgette or lettuce : 
+        orange zest : 
+        any other citrus fruit zest, fruit juice, fruit concentrate, pure extracts or vinegar : 
+        green bell pepper : 
+        poblano peppers, anaheim peppers, jalapeños, sichuan peppers, pimientos, cubanelle, red bell peppers or yellow bell peppers : 
+        chipotle chillies : 
+        fresh jalapeños, serrano peppers or poblano peppers : 
+        chilli powder : 
+        paprika, cumin, garlic powder, onion powder, oregano or cayenne : 
+        ground coriander : 
+        cumin, caraway, garam masala or curry powder : 
+        ground cumin : 
+        ground coriander, caraway seeds, chilli powder, taco seasoning, curry powder, garam masala, paprika or fennel seeds : 
+        ground buffalo : 
+        ground bison or ground beef : 
+        pinto beans : 
+        black beans, navy beans, borlotti beans, red beans, kidney beans, white beans or cannellini beans : 
+        masa harina flour : 
+        corn meal, gritis, regular flour, ground corn tortillas, corn starch, fresh masa or masa preparada : 
+        green beans : 
+        nopalitos, thin asparagus stalks or wax beans : 
+        white flour : 
+        almond flour, coconut flour, quinoa flour, chickpea flour, brown rice flour, oat flour, spelt flour or buckwheat flour : 
+        cardamom : 
+        cinnamon and cloves, cinnamon and nutmeg or allspice powder : 
+        caster sugar : 
+        granulated sugar : 
+        free-range eggs : 
+        banana, flaxseed, chia seeds, applesauce or organic eggs : 
+        shortening : 
+        butter, coconut oil, margarine, lard, vegetable oil or vegan butter : 
+        vinegar : 
+        lemon or lemon juice : 
+        mung beans : 
+        snow peas or pigeon peas : 
+        hash browns : 
+        cauliflower hash browns, keto has browns or fries : 
+        cream of chicken soup : 
+        sour cream, yogurt, tomato sauce or eggs and milk : 
+        colby cheese : 
+        pata cabra cheese, fontina cheese, limburguer cheese or carciotta cheese : 
+        sherry : 
+        white wine vinegar, apple cider vinegar, sherry vinegar or port wine : 
+        sesame oil : 
+        perilla oil, walnut oil, oilve oil, canola oil, avocado oil, tahini or roasted sesame seed : 
+        garlic sauce : 
+        harissa sauce, sriracha, ketchup with garlic or red pepper flakes : 
+        red pepper flakes : 
+        dried peppers, ground cayenne pepper or chilli powder : 
+        dill : 
+        fennel, thyme, rosemary, parsley, chevil, basil or tarragon : 
+        smoked salmon : 
+        smked mackerel, sardines, or pink snapper : 
+        arborio rice : 
+        pearled barley, basmati rice, brown rice, carnaroli rice, sushi rice, quinoa or bulgur wheat : 
+        marinara sauce : 
+        tomato sauce mixed with water : 
+        baby green peas : 
+        black-eyed peas, lima beans or fresh cranberry beans : 
+        bread crumbs : 
+        almonds, walnuts, chia seeds or flax seeds : 
+        flour tortillas : 
+        corn tortillas, grain-free tortillas, lettuce wraps or spinach wraps : 
+        chillies : 
+        red bell pepper flakes or smoked paprika : 
+        guacamole : 
+        nut butter, pesto, edamame beans, hummus or mockamole : 
+        refried beans : 
+        chilli beans, rattlesnake beans, red kidney beans or cranberry beans : 
+        angel food cake mix : 
+        sponge cake mix : 
+        milkfish : 
+        mullet fish : 
+        calamansi juice : 
+        lime juice, orange juice, vinegar, citric acid, lemon zest, white wine, lemon extract or cream of tartar : 
+        pickles : 
+        chopped dill pickles, freen olives, capers, green bell peppers, celery or cucumbers   : 
+        eggplant : 
+        okra, zuchinni, mushrooms, summer squash or root vegetables : 
+        grapes : 
+        baby kiwi, mayhaw berries, white mulberries or elderberry : 
+        pork : 
+        chicken or tempeh : 
+        annatto powder : 
+        hibiscus powder, tumeric powder, nutmeg, beet powder and paprika : 
+        kinchay : 
+        parsley, basil or herb mixtures : 

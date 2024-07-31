@@ -1,0 +1,1850 @@
+<|startoftext|>
+[CONTEXT]: If you do not have plain flour you can use instead oat flour, bread flour, cake flour or coconut flour
+[QUESTION]: What can I use instead of plain flour?
+[ANSWER]: oat flour, bread flour, cake flour or coconut flour
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have olive oil you can use instead peanut oil, butter, coconut milk, ghee, walnut oil, sunflower oil, canola oil or vegetable oil
+[QUESTION]: What can I use instead of olive oil?
+[ANSWER]: peanut oil, butter, coconut milk, ghee, walnut oil, sunflower oil, canola oil or vegetable oil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have salt you can use instead mint, rosemary, nutmeg, basil, cardamon, chili, cinnamon or chives
+[QUESTION]: What can I use instead of salt?
+[ANSWER]: mint, rosemary, nutmeg, basil, cardamon, chili, cinnamon or chives
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have black pepper you can use instead white pepper, cayenne pepper or papaya seeds
+[QUESTION]: What can I use instead of black pepper?
+[ANSWER]: white pepper, cayenne pepper or papaya seeds
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have eggs you can use instead commerical egg substitute or tofu
+[QUESTION]: What can I use instead of eggs?
+[ANSWER]: commerical egg substitute or tofu
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have milk you can use instead cream, powerdered milk, plain yogurt, nut milk, soy milk, oat milk or rice milk
+[QUESTION]: What can I use instead of milk?
+[ANSWER]: cream, powerdered milk, plain yogurt, nut milk, soy milk, oat milk or rice milk
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sausage you can use instead vegetarian sausages
+[QUESTION]: What can I use instead of sausage?
+[ANSWER]: vegetarian sausages
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mustard you can use instead turmeric, wasabi powder or horseradish powder
+[QUESTION]: What can I use instead of mustard?
+[ANSWER]: turmeric, wasabi powder or horseradish powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have beef stock you can use instead vegetable stock, chicken stock, bouillion stock or red wine
+[QUESTION]: What can I use instead of beef stock?
+[ANSWER]: vegetable stock, chicken stock, bouillion stock or red wine
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cabbage you can use instead brussels sprouts, yu choy, kangkong or bok choy
+[QUESTION]: What can I use instead of cabbage?
+[ANSWER]: brussels sprouts, yu choy, kangkong or bok choy
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have garlic you can use instead garlic oil, onion, chives or lemon zest
+[QUESTION]: What can I use instead of garlic?
+[ANSWER]: garlic oil, onion, chives or lemon zest
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mixed herbs you can use instead basil, marjoram, min, oregano or parsley
+[QUESTION]: What can I use instead of mixed herbs?
+[ANSWER]: basil, marjoram, min, oregano or parsley
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have butter you can use instead olive oil, ghee, greek yogurt, avocado, pumpkin puree or coconut oil
+[QUESTION]: What can I use instead of butter?
+[ANSWER]: olive oil, ghee, greek yogurt, avocado, pumpkin puree or coconut oil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have potato you can use instead cauliflower or cabbage
+[QUESTION]: What can I use instead of potato?
+[ANSWER]: cauliflower or cabbage
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have frozen peas you can use instead lima beans, green pepper, green onion or broad beans
+[QUESTION]: What can I use instead of frozen peas?
+[ANSWER]: lima beans, green pepper, green onion or broad beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mushrooms you can use instead zucchini, eggplant, chickpeas, tofu, onions or cilantro
+[QUESTION]: What can I use instead of mushrooms?
+[ANSWER]: zucchini, eggplant, chickpeas, tofu, onions or cilantro
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have oat meal you can use instead amaranth, teff, buckwheat, wheat berries, spelt or quinoa
+[QUESTION]: What can I use instead of oat meal?
+[ANSWER]: amaranth, teff, buckwheat, wheat berries, spelt or quinoa
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have yeast you can use instead baking powder. baking soda or sourdough
+[QUESTION]: What can I use instead of yeast?
+[ANSWER]: baking powder. baking soda or sourdough
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have bacon you can use instead pork, chicken or turkey bacon
+[QUESTION]: What can I use instead of bacon?
+[ANSWER]: pork, chicken or turkey bacon
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have tomatoes you can use instead olives, red peppers or red capsicum
+[QUESTION]: What can I use instead of tomatoes?
+[ANSWER]: olives, red peppers or red capsicum
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have baked beans you can use instead peas or chickpeas
+[QUESTION]: What can I use instead of baked beans?
+[ANSWER]: peas or chickpeas
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have paprika you can use instead catenne pepper, chili powder or chili flakes
+[QUESTION]: What can I use instead of paprika?
+[ANSWER]: catenne pepper, chili powder or chili flakes
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have feta you can use instead ricotta, halloumi, goats cheese or queso fresco
+[QUESTION]: What can I use instead of feta?
+[ANSWER]: ricotta, halloumi, goats cheese or queso fresco
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have parsley you can use instead chervil, tarragon, chives, oregano, arugula, endive, cilantro or basil
+[QUESTION]: What can I use instead of parsley?
+[ANSWER]: chervil, tarragon, chives, oregano, arugula, endive, cilantro or basil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cheddar you can use instead cantal, edam, mimolette, gouda, emmental or french gruyere
+[QUESTION]: What can I use instead of cheddar?
+[ANSWER]: cantal, edam, mimolette, gouda, emmental or french gruyere
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pork fillet you can use instead pork sirloin, pork tenderloin, chicken, turkey or beef
+[QUESTION]: What can I use instead of pork fillet?
+[ANSWER]: pork sirloin, pork tenderloin, chicken, turkey or beef
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have red peppers you can use instead poblano peppers, cubanelle, anaheim peppers, pepperoncini, jalapeno, pimiento, zucchini or broccoli
+[QUESTION]: What can I use instead of red peppers?
+[ANSWER]: poblano peppers, cubanelle, anaheim peppers, pepperoncini, jalapeno, pimiento, zucchini or broccoli
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have courgette you can use instead cucumber or zucchini
+[QUESTION]: What can I use instead of courgette?
+[ANSWER]: cucumber or zucchini
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chickpeas you can use instead green peas, cannellini beans, black beans, lentils, soybeans, mung beans, peanuts or hazelnuts
+[QUESTION]: What can I use instead of chickpeas?
+[ANSWER]: green peas, cannellini beans, black beans, lentils, soybeans, mung beans, peanuts or hazelnuts
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chicken stock you can use instead beef stock or vegatable stock
+[QUESTION]: What can I use instead of chicken stock?
+[ANSWER]: beef stock or vegatable stock
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have muscovado sugar you can use instead demerara sugar or brown sugar
+[QUESTION]: What can I use instead of muscovado sugar?
+[ANSWER]: demerara sugar or brown sugar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have balsamic vinegar you can use instead red wine vinegar, lemon juice or lime juice
+[QUESTION]: What can I use instead of balsamic vinegar?
+[ANSWER]: red wine vinegar, lemon juice or lime juice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have paraham you can use instead smoked ham, pork chops, bacon, prosciutti or cooked ham
+[QUESTION]: What can I use instead of paraham?
+[ANSWER]: smoked ham, pork chops, bacon, prosciutti or cooked ham
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have passata you can use instead tomatoes. pasta sauce, tomato paste, ketchup or fresh tomatoes
+[QUESTION]: What can I use instead of passata?
+[ANSWER]: tomatoes. pasta sauce, tomato paste, ketchup or fresh tomatoes
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have goats cheese you can use instead cream cheese, mascarpone cheese, feta cheese or ricotta cheese
+[QUESTION]: What can I use instead of goats cheese?
+[ANSWER]: cream cheese, mascarpone cheese, feta cheese or ricotta cheese
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have basil you can use instead marajoram, mint, parsley, oregano or thyme
+[QUESTION]: What can I use instead of basil?
+[ANSWER]: marajoram, mint, parsley, oregano or thyme
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have golden syrup you can use instead honey, cane syrup or brown rice syrup
+[QUESTION]: What can I use instead of golden syrup?
+[ANSWER]: honey, cane syrup or brown rice syrup
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have breadcrumbs you can use instead oats, chrshed chips, nuts, crackers, pretzels or cereal
+[QUESTION]: What can I use instead of breadcrumbs?
+[ANSWER]: oats, chrshed chips, nuts, crackers, pretzels or cereal
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have lemon you can use instead lime. orange, white wine, cream of tartar or citric acid
+[QUESTION]: What can I use instead of lemon?
+[ANSWER]: lime. orange, white wine, cream of tartar or citric acid
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sunflower oil you can use instead vegetable oil, peanut oil, canola oil, walnut oil, butter, safflower oil, corn oil or grapeseed oil
+[QUESTION]: What can I use instead of sunflower oil?
+[ANSWER]: vegetable oil, peanut oil, canola oil, walnut oil, butter, safflower oil, corn oil or grapeseed oil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sweet potato you can use instead garnet potatoes, jewel potatoes, yukon potatoes, carrots, parsnips, pumpkin or butternut
+[QUESTION]: What can I use instead of sweet potato?
+[ANSWER]: garnet potatoes, jewel potatoes, yukon potatoes, carrots, parsnips, pumpkin or butternut
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have apple you can use instead pear
+[QUESTION]: What can I use instead of apple?
+[ANSWER]: pear
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have curry powder you can use instead cumin, coriander, chilli, tumeric or black pepper
+[QUESTION]: What can I use instead of curry powder?
+[ANSWER]: cumin, coriander, chilli, tumeric or black pepper
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have tomato puree you can use instead tomato sauce, pizza sauce, tomato, canned tomatoes or ketchup
+[QUESTION]: What can I use instead of tomato puree?
+[ANSWER]: tomato sauce, pizza sauce, tomato, canned tomatoes or ketchup
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mango chutney you can use instead apricot, mango salsa or marmalade
+[QUESTION]: What can I use instead of mango chutney?
+[ANSWER]: apricot, mango salsa or marmalade
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have basmati rice you can use instead jasmine rice, brown rice, white rice or texmati rice
+[QUESTION]: What can I use instead of basmati rice?
+[ANSWER]: jasmine rice, brown rice, white rice or texmati rice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sour cream you can use instead greek jogurt, cottage cheese, creme fraiche or buttermilk
+[QUESTION]: What can I use instead of sour cream?
+[ANSWER]: greek jogurt, cottage cheese, creme fraiche or buttermilk
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have coriander you can use instead cumin, garam masala, curry powder or caraway
+[QUESTION]: What can I use instead of coriander?
+[ANSWER]: cumin, garam masala, curry powder or caraway
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have braising steak you can use instead diced beef, sirloin steak or rump steak
+[QUESTION]: What can I use instead of braising steak?
+[ANSWER]: diced beef, sirloin steak or rump steak
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have brown ale you can use instead beef stock, chicken stock or vegatable stock
+[QUESTION]: What can I use instead of brown ale?
+[ANSWER]: beef stock, chicken stock or vegatable stock
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have celery you can use instead fennel, onion, scallions, carrots, shallots, garlic, chives or leeks
+[QUESTION]: What can I use instead of celery?
+[ANSWER]: fennel, onion, scallions, carrots, shallots, garlic, chives or leeks
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have bay leaf you can use instead thyme, oregano or boldo leaf
+[QUESTION]: What can I use instead of bay leaf?
+[ANSWER]: thyme, oregano or boldo leaf
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have thyme you can use instead oregano, marjoram, rosemary, savoury or basil
+[QUESTION]: What can I use instead of thyme?
+[ANSWER]: oregano, marjoram, rosemary, savoury or basil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have carrots you can use instead parsnips, daikon, turnip or celery
+[QUESTION]: What can I use instead of carrots?
+[ANSWER]: parsnips, daikon, turnip or celery
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have onions you can use instead leeks, chives, garlic, carrors or tomatoes
+[QUESTION]: What can I use instead of onions?
+[ANSWER]: leeks, chives, garlic, carrors or tomatoes
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cornstarch you can use instead wheat flour, arrowroot, potao starch, rice flour, ground flaxseeds, glucomannan or psyllium husk
+[QUESTION]: What can I use instead of cornstarch?
+[ANSWER]: wheat flour, arrowroot, potao starch, rice flour, ground flaxseeds, glucomannan or psyllium husk
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pectin you can use instead citrus peels, cornstarch or geletine
+[QUESTION]: What can I use instead of pectin?
+[ANSWER]: citrus peels, cornstarch or geletine
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have heavy cream you can use instead milk and butter combined, soy milks and olive oil, milk and cornstarch, greek yogurt, evaporated milk or cottage cheese and milk
+[QUESTION]: What can I use instead of heavy cream?
+[ANSWER]: milk and butter combined, soy milks and olive oil, milk and cornstarch, greek yogurt, evaporated milk or cottage cheese and milk
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have vegetable shortening you can use instead butter or magarine
+[QUESTION]: What can I use instead of vegetable shortening?
+[ANSWER]: butter or magarine
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have vanilla extract you can use instead maple syrup, almond extract, bourbon, brandy, rum
+[QUESTION]: What can I use instead of vanilla extract?
+[ANSWER]: maple syrup, almond extract, bourbon, brandy, rum
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have powdered sugar you can use instead sweetner or cornstarch
+[QUESTION]: What can I use instead of powdered sugar?
+[ANSWER]: sweetner or cornstarch
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have maple syrup you can use instead honey, corn syrup or agave nectar
+[QUESTION]: What can I use instead of maple syrup?
+[ANSWER]: honey, corn syrup or agave nectar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sprinkles you can use instead brown sugar or honey
+[QUESTION]: What can I use instead of sprinkles?
+[ANSWER]: brown sugar or honey
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cinnamon powder you can use instead all spice or or nutmeg
+[QUESTION]: What can I use instead of cinnamon powder?
+[ANSWER]: all spice or or nutmeg
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cooking spray you can use instead butter or olive oil
+[QUESTION]: What can I use instead of cooking spray?
+[ANSWER]: butter or olive oil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have canned pumpkin you can use instead mashed sweet potato or butternut squash
+[QUESTION]: What can I use instead of canned pumpkin?
+[ANSWER]: mashed sweet potato or butternut squash
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have brown sugar you can use instead white sugar, honey, maple syrup, coconut sugar or muscovado sugar
+[QUESTION]: What can I use instead of brown sugar?
+[ANSWER]: white sugar, honey, maple syrup, coconut sugar or muscovado sugar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pumpkin you can use instead butternut, honeynut or acorn squash
+[QUESTION]: What can I use instead of pumpkin?
+[ANSWER]: butternut, honeynut or acorn squash
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cinamon you can use instead cassia, allspice, clives, nutmeg or cardamom
+[QUESTION]: What can I use instead of cinamon?
+[ANSWER]: cassia, allspice, clives, nutmeg or cardamom
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have nutmeg you can use instead mace, garam masala, allspice, cinnamon, apple pie spice, giner or cloves
+[QUESTION]: What can I use instead of nutmeg?
+[ANSWER]: mace, garam masala, allspice, cinnamon, apple pie spice, giner or cloves
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have allspice you can use instead cinnamon, nutmeg, cloves or applie pie spice
+[QUESTION]: What can I use instead of allspice?
+[ANSWER]: cinnamon, nutmeg, cloves or applie pie spice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ground cloves you can use instead allspice, caradamon, pumpkin pie spice or cinnamon
+[QUESTION]: What can I use instead of ground cloves?
+[ANSWER]: allspice, caradamon, pumpkin pie spice or cinnamon
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ginger you can use instead cardamom, allspice, cinnamon, nutmeg or mace
+[QUESTION]: What can I use instead of ginger?
+[ANSWER]: cardamom, allspice, cinnamon, nutmeg or mace
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have berbere seasoning you can use instead cayenne pepper or ras el hanout
+[QUESTION]: What can I use instead of berbere seasoning?
+[ANSWER]: cayenne pepper or ras el hanout
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have tomato paste you can use instead soy sauce, olive tapenade, canned tomatoes or tomato ketchup
+[QUESTION]: What can I use instead of tomato paste?
+[ANSWER]: soy sauce, olive tapenade, canned tomatoes or tomato ketchup
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have red lentils you can use instead yellow lentils or green lentils
+[QUESTION]: What can I use instead of red lentils?
+[ANSWER]: yellow lentils or green lentils
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have strawberries you can use instead rasberries, red grapes or blueberries
+[QUESTION]: What can I use instead of strawberries?
+[ANSWER]: rasberries, red grapes or blueberries
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pineapple you can use instead apple, orange, kiwi or grape
+[QUESTION]: What can I use instead of pineapple?
+[ANSWER]: apple, orange, kiwi or grape
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have red onion you can use instead yellow onions, leeks, shallots or onion juice, poweder or flakes
+[QUESTION]: What can I use instead of red onion?
+[ANSWER]: yellow onions, leeks, shallots or onion juice, poweder or flakes
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cilantro you can use instead parsley, mint, basil, chives, green onions, dill or carrot greens
+[QUESTION]: What can I use instead of cilantro?
+[ANSWER]: parsley, mint, basil, chives, green onions, dill or carrot greens
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have key lime juice you can use instead lemon juice or lemon extract
+[QUESTION]: What can I use instead of key lime juice?
+[ANSWER]: lemon juice or lemon extract
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have unsalted butter you can use instead maragarine, vegetable shortening, coconut oil or salted butter
+[QUESTION]: What can I use instead of unsalted butter?
+[ANSWER]: maragarine, vegetable shortening, coconut oil or salted butter
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have egg yolk you can use instead apple sauce, mashed banana, ground flaxseeds, chia seeds, commerial egg replacer, silken tofu or buttermilk
+[QUESTION]: What can I use instead of egg yolk?
+[ANSWER]: apple sauce, mashed banana, ground flaxseeds, chia seeds, commerial egg replacer, silken tofu or buttermilk
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pear you can use instead apples, asain pears, quinces, figs or pepinos
+[QUESTION]: What can I use instead of pear?
+[ANSWER]: apples, asain pears, quinces, figs or pepinos
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have lemon juice you can use instead lime juice, orange juice, vinegar, citric acid, white wine, lemon extract or cream or tartar
+[QUESTION]: What can I use instead of lemon juice?
+[ANSWER]: lime juice, orange juice, vinegar, citric acid, white wine, lemon extract or cream or tartar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have black beans you can use instead chickpeas, kidney beans, lentils, cauliflower or nuts
+[QUESTION]: What can I use instead of black beans?
+[ANSWER]: chickpeas, kidney beans, lentils, cauliflower or nuts
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pork ribs you can use instead pork chops, or pork belly
+[QUESTION]: What can I use instead of pork ribs?
+[ANSWER]: pork chops, or pork belly
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have smokey bacon you can use instead liquid smoke, smoked paprila, veggie bacon, dark beer or blackstrap moasses
+[QUESTION]: What can I use instead of smokey bacon?
+[ANSWER]: liquid smoke, smoked paprila, veggie bacon, dark beer or blackstrap moasses
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pork belly you can use instead pork chops or pork ribs
+[QUESTION]: What can I use instead of pork belly?
+[ANSWER]: pork chops or pork ribs
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have dried chili you can use instead serrano pepper, cayenne pepper, pequin chili or jalapeno
+[QUESTION]: What can I use instead of dried chili?
+[ANSWER]: serrano pepper, cayenne pepper, pequin chili or jalapeno
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cumin you can use instead ground coriander, caraway seeds, chili powder, taco seasoning, curry powder or garam masala
+[QUESTION]: What can I use instead of cumin?
+[ANSWER]: ground coriander, caraway seeds, chili powder, taco seasoning, curry powder or garam masala
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have oregano you can use instead mint, parsley or poultry seasoning
+[QUESTION]: What can I use instead of oregano?
+[ANSWER]: mint, parsley or poultry seasoning
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have beans you can use instead tofu, sourgram, cauliflowder florets, tempeh, quinoa, peas or eggplant
+[QUESTION]: What can I use instead of beans?
+[ANSWER]: tofu, sourgram, cauliflowder florets, tempeh, quinoa, peas or eggplant
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have long grain rice you can use instead white rice, brown rice or egg friend rice
+[QUESTION]: What can I use instead of long grain rice?
+[ANSWER]: white rice, brown rice or egg friend rice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have star anise you can use instead allspice, chinese five spice powder or chili powder
+[QUESTION]: What can I use instead of star anise?
+[ANSWER]: allspice, chinese five spice powder or chili powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have spring onions you can use instead challots, green onions, red onions or celery
+[QUESTION]: What can I use instead of spring onions?
+[ANSWER]: challots, green onions, red onions or celery
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have miso paste you can use instead soy sauce, salt, tahini or vegetable stock
+[QUESTION]: What can I use instead of miso paste?
+[ANSWER]: soy sauce, salt, tahini or vegetable stock
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mirin you can use instead dry sherry or sweet masala wine
+[QUESTION]: What can I use instead of mirin?
+[ANSWER]: dry sherry or sweet masala wine
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have soy sauce you can use instead tamari, worcestershire sauce, coconut aminos, miso paste or maggi seasoning
+[QUESTION]: What can I use instead of soy sauce?
+[ANSWER]: tamari, worcestershire sauce, coconut aminos, miso paste or maggi seasoning
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have shiitake mushrooms you can use instead portobello mushrooms, crimini mushrooms or porcini mushrooms
+[QUESTION]: What can I use instead of shiitake mushrooms?
+[ANSWER]: portobello mushrooms, crimini mushrooms or porcini mushrooms
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have baby spinach you can use instead rocket, spinach, watercress or beet greens
+[QUESTION]: What can I use instead of baby spinach?
+[ANSWER]: rocket, spinach, watercress or beet greens
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have white pepper you can use instead ground giner, ground mustard or pink peppercorns
+[QUESTION]: What can I use instead of white pepper?
+[ANSWER]: ground giner, ground mustard or pink peppercorns
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have furikake you can use instead crumbled nori seaweed, sesame seeds or togarashi
+[QUESTION]: What can I use instead of furikake?
+[ANSWER]: crumbled nori seaweed, sesame seeds or togarashi
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pasta you can use instead spaghetti, eggplant lasagna, cabbage noodles, sprouts or onion noodles
+[QUESTION]: What can I use instead of pasta?
+[ANSWER]: spaghetti, eggplant lasagna, cabbage noodles, sprouts or onion noodles
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have curry leaves you can use instead lime zest, bay leves, basil leaves, lemon zest or daun salam leaves
+[QUESTION]: What can I use instead of curry leaves?
+[ANSWER]: lime zest, bay leves, basil leaves, lemon zest or daun salam leaves
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have asafoetida you can use instead garlic powder, garlic cloves or
+[QUESTION]: What can I use instead of asafoetida?
+[ANSWER]: garlic powder, garlic cloves or
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have peanuts you can use instead beans, pretzels, seeds, tahini, sunflower seeds or almonds
+[QUESTION]: What can I use instead of peanuts?
+[ANSWER]: beans, pretzels, seeds, tahini, sunflower seeds or almonds
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have almonds you can use instead breadcrumbs, ground rice, semolina or polenta
+[QUESTION]: What can I use instead of almonds?
+[ANSWER]: breadcrumbs, ground rice, semolina or polenta
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sesame seeds you can use instead poppy seeds or hemp seeds
+[QUESTION]: What can I use instead of sesame seeds?
+[ANSWER]: poppy seeds or hemp seeds
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have golden raisins you can use instead pitted dates, prines or dried cranberries
+[QUESTION]: What can I use instead of golden raisins?
+[ANSWER]: pitted dates, prines or dried cranberries
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cashew nuts you can use instead pine nuts, almonds, walknuts, hazelnuts or sunflower seeds
+[QUESTION]: What can I use instead of cashew nuts?
+[ANSWER]: pine nuts, almonds, walknuts, hazelnuts or sunflower seeds
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have green chili you can use instead banana pepper, anaheim pepper, poblano pepper, jalapeno, serrano or chilli powder
+[QUESTION]: What can I use instead of green chili?
+[ANSWER]: banana pepper, anaheim pepper, poblano pepper, jalapeno, serrano or chilli powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have rib roast you can use instead prok belly or pork chops,
+[QUESTION]: What can I use instead of rib roast?
+[ANSWER]: prok belly or pork chops,
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have kosher salt you can use instead sea saly, brine or coarse himalayan pink salt
+[QUESTION]: What can I use instead of kosher salt?
+[ANSWER]: sea saly, brine or coarse himalayan pink salt
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have worcestershire sauce you can use instead soy sauce, miso paste, soy sauce and ketcup r soy cause and apple sauce
+[QUESTION]: What can I use instead of worcestershire sauce?
+[ANSWER]: soy sauce, miso paste, soy sauce and ketcup r soy cause and apple sauce
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have liquid smoke you can use instead smoked paprika, smoke tea or chipotle powder
+[QUESTION]: What can I use instead of liquid smoke?
+[ANSWER]: smoked paprika, smoke tea or chipotle powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have beef broth you can use instead vegetable broth, bouillon cubes, soy sauce or mushroom broth
+[QUESTION]: What can I use instead of beef broth?
+[ANSWER]: vegetable broth, bouillon cubes, soy sauce or mushroom broth
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mustard powder you can use instead tumeri powder, wasabi powder or mustard seed
+[QUESTION]: What can I use instead of mustard powder?
+[ANSWER]: tumeri powder, wasabi powder or mustard seed
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have coriander powder you can use instead cumin, garam masala, curry powder or caraway
+[QUESTION]: What can I use instead of coriander powder?
+[ANSWER]: cumin, garam masala, curry powder or caraway
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have onion powder you can use instead onion flakes, minced onion, fresh onion or garlc powder
+[QUESTION]: What can I use instead of onion powder?
+[ANSWER]: onion flakes, minced onion, fresh onion or garlc powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have bay leaves you can use instead dried thyme or oregano
+[QUESTION]: What can I use instead of bay leaves?
+[ANSWER]: dried thyme or oregano
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have dried thyme you can use instead oregano, marjoram, rosemary, savoury or basil
+[QUESTION]: What can I use instead of dried thyme?
+[ANSWER]: oregano, marjoram, rosemary, savoury or basil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have rosemary you can use instead thyme, tarragon or savory
+[QUESTION]: What can I use instead of rosemary?
+[ANSWER]: thyme, tarragon or savory
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have yellow pepper you can use instead red pepper, green pepper, orange bell peppers
+[QUESTION]: What can I use instead of yellow pepper?
+[ANSWER]: red pepper, green pepper, orange bell peppers
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chorizo you can use instead smoked paprika or bacon rind
+[QUESTION]: What can I use instead of chorizo?
+[ANSWER]: smoked paprika or bacon rind
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cannellini beans you can use instead red kideny beans, great northen beans or navy beans
+[QUESTION]: What can I use instead of cannellini beans?
+[ANSWER]: red kideny beans, great northen beans or navy beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have italian seasoniong you can use instead basil, marjoram, oregano, rosemary or thyme
+[QUESTION]: What can I use instead of italian seasoniong?
+[ANSWER]: basil, marjoram, oregano, rosemary or thyme
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have garlic salt you can use instead garlic powder, kosher salt, garlic cloves or garlic powder and salt
+[QUESTION]: What can I use instead of garlic salt?
+[ANSWER]: garlic powder, kosher salt, garlic cloves or garlic powder and salt
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pepe pasta you can use instead arugula or kale
+[QUESTION]: What can I use instead of pepe pasta?
+[ANSWER]: arugula or kale
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have parmesan cheese you can use instead gran padano or american grana, dry jack or pecorino
+[QUESTION]: What can I use instead of parmesan cheese?
+[ANSWER]: gran padano or american grana, dry jack or pecorino
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have spinach you can use instead argula or kale
+[QUESTION]: What can I use instead of spinach?
+[ANSWER]: argula or kale
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ricotta you can use instead goats cheese, cottage cheese, sour cream, cream cheese or queso fresco
+[QUESTION]: What can I use instead of ricotta?
+[ANSWER]: goats cheese, cottage cheese, sour cream, cream cheese or queso fresco
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have boiled ham you can use instead candian bacon or gammon
+[QUESTION]: What can I use instead of boiled ham?
+[ANSWER]: candian bacon or gammon
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have spice rub you can use instead BBQ seasoning, italian seasoning or allspiace
+[QUESTION]: What can I use instead of spice rub?
+[ANSWER]: BBQ seasoning, italian seasoning or allspiace
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cayenne pepper you can use instead chili powder, paprika or red chili flakes
+[QUESTION]: What can I use instead of cayenne pepper?
+[ANSWER]: chili powder, paprika or red chili flakes
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have peanut sauce you can use instead almond butter or cashew butter
+[QUESTION]: What can I use instead of peanut sauce?
+[ANSWER]: almond butter or cashew butter
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have jalapeno pepper you can use instead serrano pepper, fresno pepper, anaheim pepper pr pblano pepper
+[QUESTION]: What can I use instead of jalapeno pepper?
+[ANSWER]: serrano pepper, fresno pepper, anaheim pepper pr pblano pepper
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chicken broth you can use instead beef stock, vegetable stock or lamb stock
+[QUESTION]: What can I use instead of chicken broth?
+[ANSWER]: beef stock, vegetable stock or lamb stock
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have peanut butter you can use instead sunflower seed butter, cookie butter, or coconut butter
+[QUESTION]: What can I use instead of peanut butter?
+[ANSWER]: sunflower seed butter, cookie butter, or coconut butter
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have coconut milk you can use instead soy milk, almond milk, oat milk or rice milk
+[QUESTION]: What can I use instead of coconut milk?
+[ANSWER]: soy milk, almond milk, oat milk or rice milk
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have figs you can use instead raisins, prines or dried apriocots
+[QUESTION]: What can I use instead of figs?
+[ANSWER]: raisins, prines or dried apriocots
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have honey you can use instead date paste, agave nectar, maple syrup or brown rice sugar
+[QUESTION]: What can I use instead of honey?
+[ANSWER]: date paste, agave nectar, maple syrup or brown rice sugar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have apple vinegar you can use instead rice vinegar, red wine vinegar, lemon juice or champagne vinegar
+[QUESTION]: What can I use instead of apple vinegar?
+[ANSWER]: rice vinegar, red wine vinegar, lemon juice or champagne vinegar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have deli ham you can use instead roasted chicken or canned salmon
+[QUESTION]: What can I use instead of deli ham?
+[ANSWER]: roasted chicken or canned salmon
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have swiss cheese you can use instead fontina cheese, cheddar cheese or mozzerella cheese
+[QUESTION]: What can I use instead of swiss cheese?
+[ANSWER]: fontina cheese, cheddar cheese or mozzerella cheese
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have milk yoghurt you can use instead buttermilk, or sour cream
+[QUESTION]: What can I use instead of milk yoghurt?
+[ANSWER]: buttermilk, or sour cream
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have confectioners sugar you can use instead granulated sugar or brown sugar
+[QUESTION]: What can I use instead of confectioners sugar?
+[ANSWER]: granulated sugar or brown sugar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have low fat greek yogurt you can use instead buttermilk, tofu, cottage cheese or sour cream
+[QUESTION]: What can I use instead of low fat greek yogurt?
+[ANSWER]: buttermilk, tofu, cottage cheese or sour cream
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have butternut squash you can use instead buttercup squash, pupkin, carrots or acorn squash
+[QUESTION]: What can I use instead of butternut squash?
+[ANSWER]: buttercup squash, pupkin, carrots or acorn squash
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chili flakes you can use instead cayenne pepper, black cardamon or fennel seeds
+[QUESTION]: What can I use instead of chili flakes?
+[ANSWER]: cayenne pepper, black cardamon or fennel seeds
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have broccoli you can use instead kale, leafy greens, asparagus, or baby spinach leaves
+[QUESTION]: What can I use instead of broccoli?
+[ANSWER]: kale, leafy greens, asparagus, or baby spinach leaves
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have gorgonzola you can use instead roquefort, stilon, danish blue or creamy blue cheese
+[QUESTION]: What can I use instead of gorgonzola?
+[ANSWER]: roquefort, stilon, danish blue or creamy blue cheese
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have leek you can use instead green onions, red onions, challots or celery
+[QUESTION]: What can I use instead of leek?
+[ANSWER]: green onions, red onions, challots or celery
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have fennel you can use instead anise seeds, cumin seeds, caraway seeds or dill
+[QUESTION]: What can I use instead of fennel?
+[ANSWER]: anise seeds, cumin seeds, caraway seeds or dill
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have acord squash you can use instead butternut squash or pumpkin squash
+[QUESTION]: What can I use instead of acord squash?
+[ANSWER]: butternut squash or pumpkin squash
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sea slat flakes you can use instead table salt or maldon salt
+[QUESTION]: What can I use instead of sea slat flakes?
+[ANSWER]: table salt or maldon salt
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have tarragon you can use instead dill, basil or marjoram
+[QUESTION]: What can I use instead of tarragon?
+[ANSWER]: dill, basil or marjoram
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have hazelnuts you can use instead walnuts, macadamia nuts or almonds
+[QUESTION]: What can I use instead of hazelnuts?
+[ANSWER]: walnuts, macadamia nuts or almonds
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mature cheddar cheese you can use instead gouda or parmesan cheese
+[QUESTION]: What can I use instead of mature cheddar cheese?
+[ANSWER]: gouda or parmesan cheese
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have tilapia you can use instead catfish, striped bass, red snapper or rainbow trout
+[QUESTION]: What can I use instead of tilapia?
+[ANSWER]: catfish, striped bass, red snapper or rainbow trout
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have panko breadcrumbs you can use instead regular breadcrumbs, cracker crumbs, matzo meal, crushed cornflakes or dry stuffing mix
+[QUESTION]: What can I use instead of panko breadcrumbs?
+[ANSWER]: regular breadcrumbs, cracker crumbs, matzo meal, crushed cornflakes or dry stuffing mix
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have parmesan cheese you can use instead grana padano, piave cheese or pecorino
+[QUESTION]: What can I use instead of parmesan cheese?
+[ANSWER]: grana padano, piave cheese or pecorino
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have paprika you can use instead cayenne pepper, chili powder, chili flakes or red chili
+[QUESTION]: What can I use instead of paprika?
+[ANSWER]: cayenne pepper, chili powder, chili flakes or red chili
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cream cheese you can use instead cottage cheese, mascarphone, tofu, ricotta cheese or sour cream
+[QUESTION]: What can I use instead of cream cheese?
+[ANSWER]: cottage cheese, mascarphone, tofu, ricotta cheese or sour cream
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have hot sauce you can use instead chili powder, chili flakes, harissa, or curry paste
+[QUESTION]: What can I use instead of hot sauce?
+[ANSWER]: chili powder, chili flakes, harissa, or curry paste
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have tortilla wraps you can use instead lettice wraps or pita bread
+[QUESTION]: What can I use instead of tortilla wraps?
+[ANSWER]: lettice wraps or pita bread
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have marrow you can use instead courgette or squash
+[QUESTION]: What can I use instead of marrow?
+[ANSWER]: courgette or squash
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have semolina you can use instead flour, bread flour or whole wheat flour
+[QUESTION]: What can I use instead of semolina?
+[ANSWER]: flour, bread flour or whole wheat flour
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have northen beans you can use instead navy beans, cannellini beans or lima beans
+[QUESTION]: What can I use instead of northen beans?
+[ANSWER]: navy beans, cannellini beans or lima beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have dry mustard powder you can use instead dijon mustard or tumeric
+[QUESTION]: What can I use instead of dry mustard powder?
+[ANSWER]: dijon mustard or tumeric
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ansjovis you can use instead shrimp, shrimp paste, capers or asian fish sauce
+[QUESTION]: What can I use instead of ansjovis?
+[ANSWER]: shrimp, shrimp paste, capers or asian fish sauce
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have shallots you can use instead sweet onions, leeks, garlic scapes, red onions or green onions
+[QUESTION]: What can I use instead of shallots?
+[ANSWER]: sweet onions, leeks, garlic scapes, red onions or green onions
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have tumeric you can use instead ginger powder, cumin, saffron or annatto powder
+[QUESTION]: What can I use instead of tumeric?
+[ANSWER]: ginger powder, cumin, saffron or annatto powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have galangal you can use instead fresh ginger or ginger powder
+[QUESTION]: What can I use instead of galangal?
+[ANSWER]: fresh ginger or ginger powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have lemongrass you can use instead lemon grass, lemon juice, lime zest or lemon balm
+[QUESTION]: What can I use instead of lemongrass?
+[ANSWER]: lemon grass, lemon juice, lime zest or lemon balm
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have dry yeast you can use instead equal parts lemon juice and baking soda
+[QUESTION]: What can I use instead of dry yeast?
+[ANSWER]: equal parts lemon juice and baking soda
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have almonds you can use instead breadcrumbs, ground rice and polenta
+[QUESTION]: What can I use instead of almonds?
+[ANSWER]: breadcrumbs, ground rice and polenta
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have aniseed you can use instead star anise, fennel seed, teaspoon caraway seed or chopped tarragon
+[QUESTION]: What can I use instead of aniseed?
+[ANSWER]: star anise, fennel seed, teaspoon caraway seed or chopped tarragon
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have asparagus you can use instead broccoli, celery, green beans or lettuce
+[QUESTION]: What can I use instead of asparagus?
+[ANSWER]: broccoli, celery, green beans or lettuce
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have jicama you can use instead daikon radish or jerusalem artichokes
+[QUESTION]: What can I use instead of jicama?
+[ANSWER]: daikon radish or jerusalem artichokes
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have red cabbage you can use instead white cabbage or napa cabbage
+[QUESTION]: What can I use instead of red cabbage?
+[ANSWER]: white cabbage or napa cabbage
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have purple cabbage you can use instead napa cabbage, breussels sprouts, bok choy and celery
+[QUESTION]: What can I use instead of purple cabbage?
+[ANSWER]: napa cabbage, breussels sprouts, bok choy and celery
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have lettuce you can use instead spinach or parsley
+[QUESTION]: What can I use instead of lettuce?
+[ANSWER]: spinach or parsley
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have blueberries you can use instead acai berries, blackberries, huckleberries, raspberries or currents
+[QUESTION]: What can I use instead of blueberries?
+[ANSWER]: acai berries, blackberries, huckleberries, raspberries or currents
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mint you can use instead peppermint or parsely
+[QUESTION]: What can I use instead of mint?
+[ANSWER]: peppermint or parsely
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mine confit zest you can use instead lemon zest or lime zest
+[QUESTION]: What can I use instead of mine confit zest?
+[ANSWER]: lemon zest or lime zest
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chinese oyster sauce you can use instead soy sauce, hoisin sauce or fish sauce
+[QUESTION]: What can I use instead of chinese oyster sauce?
+[ANSWER]: soy sauce, hoisin sauce or fish sauce
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have apple cider vinegar you can use instead red wine, white wine or sherry vinegar
+[QUESTION]: What can I use instead of apple cider vinegar?
+[ANSWER]: red wine, white wine or sherry vinegar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have saffron you can use instead turmeric or cumin
+[QUESTION]: What can I use instead of saffron?
+[ANSWER]: turmeric or cumin
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mussels you can use instead shrimp, prawns or clam
+[QUESTION]: What can I use instead of mussels?
+[ANSWER]: shrimp, prawns or clam
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have prawns you can use instead mussels, clam or shrimp
+[QUESTION]: What can I use instead of prawns?
+[ANSWER]: mussels, clam or shrimp
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have monkfish you can use instead snapper, sea bass, halibut or sea scallops
+[QUESTION]: What can I use instead of monkfish?
+[ANSWER]: snapper, sea bass, halibut or sea scallops
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have squid you can use instead prawns oe firm white fish
+[QUESTION]: What can I use instead of squid?
+[ANSWER]: prawns oe firm white fish
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have risotto rice you can use instead brown rice, sushi rice, basmati rice or quinoa
+[QUESTION]: What can I use instead of risotto rice?
+[ANSWER]: brown rice, sushi rice, basmati rice or quinoa
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have dry white wine you can use instead apple cider vinegar, chicken broth, white grape juice or ginger ale
+[QUESTION]: What can I use instead of dry white wine?
+[ANSWER]: apple cider vinegar, chicken broth, white grape juice or ginger ale
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chicken legs you can use instead chicke drumsticks or chicken thighs
+[QUESTION]: What can I use instead of chicken legs?
+[ANSWER]: chicke drumsticks or chicken thighs
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cherry tomatoes you can use instead olives, red pepper or canned tomatoes
+[QUESTION]: What can I use instead of cherry tomatoes?
+[ANSWER]: olives, red pepper or canned tomatoes
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have capers you can use instead green olives, anchovies or pickles
+[QUESTION]: What can I use instead of capers?
+[ANSWER]: green olives, anchovies or pickles
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have djion mustard you can use instead yellow mustard, honey mustard, wasabi or mayonnaise
+[QUESTION]: What can I use instead of djion mustard?
+[ANSWER]: yellow mustard, honey mustard, wasabi or mayonnaise
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have beef bouillon you can use instead chicken broth or vegetable stock
+[QUESTION]: What can I use instead of beef bouillon?
+[ANSWER]: chicken broth or vegetable stock
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have celery seeds you can use instead flat leaf parsley or dill seed
+[QUESTION]: What can I use instead of celery seeds?
+[ANSWER]: flat leaf parsley or dill seed
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chickpeas you can use instead green peas, lentils, soybeans, mung beans or peanuts
+[QUESTION]: What can I use instead of chickpeas?
+[ANSWER]: green peas, lentils, soybeans, mung beans or peanuts
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have lamb stock you can use instead chicken stock or vegetable stock
+[QUESTION]: What can I use instead of lamb stock?
+[ANSWER]: chicken stock or vegetable stock
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have canned tomatoes you can use instead fresh tomatoes, sun dried tomatoes or red peppers
+[QUESTION]: What can I use instead of canned tomatoes?
+[ANSWER]: fresh tomatoes, sun dried tomatoes or red peppers
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have caramilk chocolate you can use instead white chocolate, milk chocolate or dark chocolate
+[QUESTION]: What can I use instead of caramilk chocolate?
+[ANSWER]: white chocolate, milk chocolate or dark chocolate
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have coca you can use instead jackfruit seeds
+[QUESTION]: What can I use instead of coca?
+[ANSWER]: jackfruit seeds
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have garam masala you can use instead curry powder, allspice powder or chaat powder
+[QUESTION]: What can I use instead of garam masala?
+[ANSWER]: curry powder, allspice powder or chaat powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have arbol chili powder you can use instead cayenne powder or generic chili powder
+[QUESTION]: What can I use instead of arbol chili powder?
+[ANSWER]: cayenne powder or generic chili powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ghee you can use instead olive oil, coconut oil, canola oil, soybean oil, sunflower oil or butter
+[QUESTION]: What can I use instead of ghee?
+[ANSWER]: olive oil, coconut oil, canola oil, soybean oil, sunflower oil or butter
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have turkey tenderloin you can use instead turkey breast fillets or turkey bacon
+[QUESTION]: What can I use instead of turkey tenderloin?
+[ANSWER]: turkey breast fillets or turkey bacon
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Egg noodles you can use instead fettucine, ribbon pasta, linguine or brown / white rice
+[QUESTION]: What can I use instead of Egg noodles?
+[ANSWER]: fettucine, ribbon pasta, linguine or brown / white rice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Chicken liver you can use instead duck liver, turkey liver or goose liver
+[QUESTION]: What can I use instead of Chicken liver?
+[ANSWER]: duck liver, turkey liver or goose liver
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Chicken gizzard you can use instead turkey gizzard or goose gizzard
+[QUESTION]: What can I use instead of Chicken gizzard?
+[ANSWER]: turkey gizzard or goose gizzard
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Bell pepper you can use instead anahiem peppers, Jalapenos, pimiento or zucchini
+[QUESTION]: What can I use instead of Bell pepper?
+[ANSWER]: anahiem peppers, Jalapenos, pimiento or zucchini
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Small head wombok you can use instead other cabbages such as red, white or napa cabbage
+[QUESTION]: What can I use instead of Small head wombok?
+[ANSWER]: other cabbages such as red, white or napa cabbage
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Oyster sauce you can use instead soy sauce, sweet soy sauce, hoisin sauce or plumb sauce
+[QUESTION]: What can I use instead of Oyster sauce?
+[ANSWER]: soy sauce, sweet soy sauce, hoisin sauce or plumb sauce
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Calamansi you can use instead lemon and lime juices
+[QUESTION]: What can I use instead of Calamansi?
+[ANSWER]: lemon and lime juices
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Dry white wine you can use instead white wine vinegar
+[QUESTION]: What can I use instead of Dry white wine?
+[ANSWER]: white wine vinegar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Orange Roughy you can use instead perch, blackfish, flounder, sole, haddock or red snapper
+[QUESTION]: What can I use instead of Orange Roughy?
+[ANSWER]: perch, blackfish, flounder, sole, haddock or red snapper
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Limes you can use instead orange, lemon or zest
+[QUESTION]: What can I use instead of Limes?
+[ANSWER]: orange, lemon or zest
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Serrano peppers you can use instead jalapeno, habanero, cayenne, guero or poblano pepper
+[QUESTION]: What can I use instead of Serrano peppers?
+[ANSWER]: jalapeno, habanero, cayenne, guero or poblano pepper
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Avocado you can use instead chai seeds or tree nuts
+[QUESTION]: What can I use instead of Avocado?
+[ANSWER]: chai seeds or tree nuts
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Honey you can use instead rice maly syrup, brown rice syrup, molasses, coconut syrup, maple syrup or golden syrup
+[QUESTION]: What can I use instead of Honey?
+[ANSWER]: rice maly syrup, brown rice syrup, molasses, coconut syrup, maple syrup or golden syrup
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Roma tomato you can use instead polish paste, plum or oxheart tomatoes
+[QUESTION]: What can I use instead of Roma tomato?
+[ANSWER]: polish paste, plum or oxheart tomatoes
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Yellow rice you can use instead white rice, brown rice, long grain rice or egg fried rice
+[QUESTION]: What can I use instead of Yellow rice?
+[ANSWER]: white rice, brown rice, long grain rice or egg fried rice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Bisquick you can use instead 1 cup of all purpose flow mixed with 1 and a half teaspoons of baking powder, half a teaspoon or salt and one tablespoon of vegetable oil
+[QUESTION]: What can I use instead of Bisquick?
+[ANSWER]: 1 cup of all purpose flow mixed with 1 and a half teaspoons of baking powder, half a teaspoon or salt and one tablespoon of vegetable oil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have Smoked paprika you can use instead hungarian paprika, sweer paprika, chipolatle chili or liquid smoke
+[QUESTION]: What can I use instead of Smoked paprika?
+[ANSWER]: hungarian paprika, sweer paprika, chipolatle chili or liquid smoke
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have split pig's feet you can use instead ham hocks or ham shanks
+[QUESTION]: What can I use instead of split pig's feet?
+[ANSWER]: ham hocks or ham shanks
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chicken bouillon cube you can use instead chicken broth, dry white wine, poultry seasoning with water
+[QUESTION]: What can I use instead of chicken bouillon cube?
+[ANSWER]: chicken broth, dry white wine, poultry seasoning with water
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have butternut squash and beet noodles you can use instead cucumber noodles,carrot noodles, raddish noodles, summer squash noodles, spiralized kohlrabi, sweet potato noodles or zucchini noodles
+[QUESTION]: What can I use instead of butternut squash and beet noodles?
+[ANSWER]: cucumber noodles,carrot noodles, raddish noodles, summer squash noodles, spiralized kohlrabi, sweet potato noodles or zucchini noodles
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have bosc pears you can use instead asian pears, apples, quinces or figs
+[QUESTION]: What can I use instead of bosc pears?
+[ANSWER]: asian pears, apples, quinces or figs
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pecans you can use instead hazelnuts, pistachios, macadamia nuts, brazil nuts, walnuts or pecan oil
+[QUESTION]: What can I use instead of pecans?
+[ANSWER]: hazelnuts, pistachios, macadamia nuts, brazil nuts, walnuts or pecan oil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have canola oil you can use instead grapeseed oil, vegetable oil or sunflower oil
+[QUESTION]: What can I use instead of canola oil?
+[ANSWER]: grapeseed oil, vegetable oil or sunflower oil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have vodka you can use instead water, apple cide vinegar or white grae juice mixed with lime juice  aquavit, tequila or white rum
+[QUESTION]: What can I use instead of vodka?
+[ANSWER]: water, apple cide vinegar or white grae juice mixed with lime juice  aquavit, tequila or white rum
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cane sugar you can use instead honey, maple syrup, applesauce, caster sugar, brown sugar, raw sugar, powdered sugar, molasses or corn syrup
+[QUESTION]: What can I use instead of cane sugar?
+[ANSWER]: honey, maple syrup, applesauce, caster sugar, brown sugar, raw sugar, powdered sugar, molasses or corn syrup
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have apple cider vinegar you can use instead red or white wine vinegar, rice vinegar, sherry vinegar, champagne vinegar or lemon juice
+[QUESTION]: What can I use instead of apple cider vinegar?
+[ANSWER]: red or white wine vinegar, rice vinegar, sherry vinegar, champagne vinegar or lemon juice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have jasmine rice you can use instead basmati rice or long-grain rice
+[QUESTION]: What can I use instead of jasmine rice?
+[ANSWER]: basmati rice or long-grain rice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ground cinnamon you can use instead nutmeg, cloves, allspice or apple pie spice
+[QUESTION]: What can I use instead of ground cinnamon?
+[ANSWER]: nutmeg, cloves, allspice or apple pie spice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have canned plum tomatoes you can use instead regular tomatoes and tomato paste, fresh tomatoes and canned whole tomatoes or sun-dried tomatoe
+[QUESTION]: What can I use instead of canned plum tomatoes?
+[ANSWER]: regular tomatoes and tomato paste, fresh tomatoes and canned whole tomatoes or sun-dried tomatoe
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have can of tomato sauce you can use instead ketchup, tomato soup or tomato paste
+[QUESTION]: What can I use instead of can of tomato sauce?
+[ANSWER]: ketchup, tomato soup or tomato paste
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have can of tomato sauce you can use instead asian pears, apples, quinces or figs
+[QUESTION]: What can I use instead of can of tomato sauce?
+[ANSWER]: asian pears, apples, quinces or figs
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have coconut cream you can use instead coconut milk, whipping cream, nut butter, tahini, greek yogurt or creamy tomato sauce
+[QUESTION]: What can I use instead of coconut cream?
+[ANSWER]: coconut milk, whipping cream, nut butter, tahini, greek yogurt or creamy tomato sauce
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sugar you can use instead honey, maple syrup, applesauce, molasses, cane sugar or brown sugar
+[QUESTION]: What can I use instead of sugar?
+[ANSWER]: honey, maple syrup, applesauce, molasses, cane sugar or brown sugar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have all-purpose flour you can use instead chickpea flour, rice flour, almond flour, buckwheat flour or a mixture of bread flour with cake flour
+[QUESTION]: What can I use instead of all-purpose flour?
+[ANSWER]: chickpea flour, rice flour, almond flour, buckwheat flour or a mixture of bread flour with cake flour
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have baking powder you can use instead buttermilk, plain yogurt, molasses, cream of tartar, sour milk, vinegar, lemon juice, baking soda, self-rising flour or whipped egg whites
+[QUESTION]: What can I use instead of baking powder?
+[ANSWER]: buttermilk, plain yogurt, molasses, cream of tartar, sour milk, vinegar, lemon juice, baking soda, self-rising flour or whipped egg whites
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have baking soda you can use instead baking powder, potassium bicarbonate and salt, self-rising flour or baker's ammonia
+[QUESTION]: What can I use instead of baking soda?
+[ANSWER]: baking powder, potassium bicarbonate and salt, self-rising flour or baker's ammonia
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have grated nutmeg you can use instead ground nutmeg, mace, garam masala, allspice, cinamon, pumpkin pie spice, appke pie spice, ginger or cloves
+[QUESTION]: What can I use instead of grated nutmeg?
+[ANSWER]: ground nutmeg, mace, garam masala, allspice, cinamon, pumpkin pie spice, appke pie spice, ginger or cloves
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ginger powder you can use instead ground allspice, ground cinnamon, ground mace or ground nutmeg
+[QUESTION]: What can I use instead of ginger powder?
+[ANSWER]: ground allspice, ground cinnamon, ground mace or ground nutmeg
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have granulated sugar you can use instead honey, maple syrup, applesauce, caster sugar, brown sugar, powdered sugar, molasses or corn syrup
+[QUESTION]: What can I use instead of granulated sugar?
+[ANSWER]: honey, maple syrup, applesauce, caster sugar, brown sugar, powdered sugar, molasses or corn syrup
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have packed light brown sugar you can use instead white sugar and molasses, honey, white sugar and maple syrup, coconut sugar, maple syryp, agave nectar or plain white sugar
+[QUESTION]: What can I use instead of packed light brown sugar?
+[ANSWER]: white sugar and molasses, honey, white sugar and maple syrup, coconut sugar, maple syryp, agave nectar or plain white sugar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have canned unsweetened pumpkin puree you can use instead frozen butternut squash, sweet potatoes, roasted acorn squash or fresh pumpkin puree
+[QUESTION]: What can I use instead of canned unsweetened pumpkin puree?
+[ANSWER]: frozen butternut squash, sweet potatoes, roasted acorn squash or fresh pumpkin puree
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cranberries you can use instead apricots, apples, cherries, raspberries blueberries or currants
+[QUESTION]: What can I use instead of cranberries?
+[ANSWER]: apricots, apples, cherries, raspberries blueberries or currants
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have maple syrup you can use instead honey, brown sugar, white sugar, molasses orcorn syrup
+[QUESTION]: What can I use instead of maple syrup?
+[ANSWER]: honey, brown sugar, white sugar, molasses orcorn syrup
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have turkey neck you can use instead chicken quarters
+[QUESTION]: What can I use instead of turkey neck?
+[ANSWER]: chicken quarters
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have celery sticks you can use instead fennel, onion, scallions, carrots, shallots, garlic, chives or leeks
+[QUESTION]: What can I use instead of celery sticks?
+[ANSWER]: fennel, onion, scallions, carrots, shallots, garlic, chives or leeks
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have tamari you can use instead soy sauce, fish sauce, salt, miso paste, teriyaki sauce or maggi seasoning
+[QUESTION]: What can I use instead of tamari?
+[ANSWER]: soy sauce, fish sauce, salt, miso paste, teriyaki sauce or maggi seasoning
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have walnuts you can use instead almonds, cashews, filberst, brazil nuts or macadamia nuts
+[QUESTION]: What can I use instead of walnuts?
+[ANSWER]: almonds, cashews, filberst, brazil nuts or macadamia nuts
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have whole milk you can use instead semi-skimmed milk, double cream, yogurt, sour cream, soy milk or coconut milk
+[QUESTION]: What can I use instead of whole milk?
+[ANSWER]: semi-skimmed milk, double cream, yogurt, sour cream, soy milk or coconut milk
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have red currant you can use instead raisins, dried dates, dried prunes, dried cherries, cranberries or jujube
+[QUESTION]: What can I use instead of red currant?
+[ANSWER]: raisins, dried dates, dried prunes, dried cherries, cranberries or jujube
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have raspberry jelly you can use instead strawberry jelly, cranberry jelly or red currants
+[QUESTION]: What can I use instead of raspberry jelly?
+[ANSWER]: strawberry jelly, cranberry jelly or red currants
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have bittersweet chocolate you can use instead unsweetened baking chocolate and sugar or semisweet chocolate with cocoa powder
+[QUESTION]: What can I use instead of bittersweet chocolate?
+[ANSWER]: unsweetened baking chocolate and sugar or semisweet chocolate with cocoa powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have unsweetened cocoa powder you can use instead melted unsweetened baking chocolate, dutch-processed cocoa or carob powder
+[QUESTION]: What can I use instead of unsweetened cocoa powder?
+[ANSWER]: melted unsweetened baking chocolate, dutch-processed cocoa or carob powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have buttermilk you can use instead milk and vinegar, milk and lemon juice, milk and cream of tartar, sour cream and water, plain yogurt and water or plain kefir
+[QUESTION]: What can I use instead of buttermilk?
+[ANSWER]: milk and vinegar, milk and lemon juice, milk and cream of tartar, sour cream and water, plain yogurt and water or plain kefir
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have semisweet chocolate chips you can use instead bittersweet baking chocolate, unsweetened cocoa powder, or unsweetened baking chocolate
+[QUESTION]: What can I use instead of semisweet chocolate chips?
+[ANSWER]: bittersweet baking chocolate, unsweetened cocoa powder, or unsweetened baking chocolate
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cream of tartar you can use instead lemon juice, white vinegar, baking powder, buttermilk or yogurt
+[QUESTION]: What can I use instead of cream of tartar?
+[ANSWER]: lemon juice, white vinegar, baking powder, buttermilk or yogurt
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have egg whites you can use instead aquafaba, ground flax seeds and water, agar powder and water or chia seeds and water
+[QUESTION]: What can I use instead of egg whites?
+[ANSWER]: aquafaba, ground flax seeds and water, agar powder and water or chia seeds and water
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have dark brown sugar you can use instead white sugar and molasses, honey, white sugar and maple syrup, coconut sugar, maple syryp, agave nectar or plain white sugar
+[QUESTION]: What can I use instead of dark brown sugar?
+[ANSWER]: white sugar and molasses, honey, white sugar and maple syrup, coconut sugar, maple syryp, agave nectar or plain white sugar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have vegetable oil you can use instead canola oil, sunflower oil, peanut oil or grapeseed oil
+[QUESTION]: What can I use instead of vegetable oil?
+[ANSWER]: canola oil, sunflower oil, peanut oil or grapeseed oil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ground nutmeg you can use instead grated nutmeg, mace, garam masala, allspice, cinamon, pumpkin pie spice, appke pie spice, ginger or cloves
+[QUESTION]: What can I use instead of ground nutmeg?
+[ANSWER]: grated nutmeg, mace, garam masala, allspice, cinamon, pumpkin pie spice, appke pie spice, ginger or cloves
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have old-fashioned rolled-oats you can use instead qionoa flakes, stell-cut oats or instant oats
+[QUESTION]: What can I use instead of old-fashioned rolled-oats?
+[ANSWER]: qionoa flakes, stell-cut oats or instant oats
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have raisins you can use instead dried currants, dried cherries, dried cranberries, dried prunes, dried sates, dried apricot or dried pineapple
+[QUESTION]: What can I use instead of raisins?
+[ANSWER]: dried currants, dried cherries, dried cranberries, dried prunes, dried sates, dried apricot or dried pineapple
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have vanilla you can use instead maple syrup, almond extract, bourbon, instant coffee, expresso powder or citrus zest
+[QUESTION]: What can I use instead of vanilla?
+[ANSWER]: maple syrup, almond extract, bourbon, instant coffee, expresso powder or citrus zest
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have lemon zest you can use instead lemon extract, lemon juice, another citrus zest or lemon peel
+[QUESTION]: What can I use instead of lemon zest?
+[ANSWER]: lemon extract, lemon juice, another citrus zest or lemon peel
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have parsnips you can use instead turnips, celery root, carrots, salsify, sweet potatoes or parsley root
+[QUESTION]: What can I use instead of parsnips?
+[ANSWER]: turnips, celery root, carrots, salsify, sweet potatoes or parsley root
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have thyme leaves you can use instead oregano, majoram, basil, savory, poultry seasoning, italian seasoning, za'taar or herbes de provence
+[QUESTION]: What can I use instead of thyme leaves?
+[ANSWER]: oregano, majoram, basil, savory, poultry seasoning, italian seasoning, za'taar or herbes de provence
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have white bread you can use instead oopsie bread, ezekiel bread, corn tortillas or rye bread
+[QUESTION]: What can I use instead of white bread?
+[ANSWER]: oopsie bread, ezekiel bread, corn tortillas or rye bread
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have canned cannellini beans you can use instead red kidney beans, great northern beans, navy beans, baby lima beans, butter beans, garbanzo beans, borlotti beans or black beans
+[QUESTION]: What can I use instead of canned cannellini beans?
+[ANSWER]: red kidney beans, great northern beans, navy beans, baby lima beans, butter beans, garbanzo beans, borlotti beans or black beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have baby lima beans you can use instead fava beans, red kidney beans or white kidney beans
+[QUESTION]: What can I use instead of baby lima beans?
+[ANSWER]: fava beans, red kidney beans or white kidney beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have large egg you can use instead any other size of egg
+[QUESTION]: What can I use instead of large egg?
+[ANSWER]: any other size of egg
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have powdered gelatin you can use instead agar agar powder, pectin powder, carrageean or guar gum
+[QUESTION]: What can I use instead of powdered gelatin?
+[ANSWER]: agar agar powder, pectin powder, carrageean or guar gum
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ground beef you can use instead mushrooms, ground poultry, textured vegetable protein, lentils, tempeh, tofu, seitan or beans
+[QUESTION]: What can I use instead of ground beef?
+[ANSWER]: mushrooms, ground poultry, textured vegetable protein, lentils, tempeh, tofu, seitan or beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have prociutto you can use instead ham, bacon, pancetta, capiola or spanish serrano ham
+[QUESTION]: What can I use instead of prociutto?
+[ANSWER]: ham, bacon, pancetta, capiola or spanish serrano ham
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have parsley leaves you can use instead cilantro, celery leaves, carrot greens, chives or chervil
+[QUESTION]: What can I use instead of parsley leaves?
+[ANSWER]: cilantro, celery leaves, carrot greens, chives or chervil
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have crsuhed tomatoes you can use instead fresh tomatoes, diced tomatoes, tomato paste, tomato puree, whole peeled tomatoes or pasta sauce
+[QUESTION]: What can I use instead of crsuhed tomatoes?
+[ANSWER]: fresh tomatoes, diced tomatoes, tomato paste, tomato puree, whole peeled tomatoes or pasta sauce
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cooking wine you can use instead white grape juice and apple juice, apple cider, cranberry juice, ginger ale, white wine vinegar, red wine vingear, lemon juice, chicken broth or vegetable broth
+[QUESTION]: What can I use instead of cooking wine?
+[ANSWER]: white grape juice and apple juice, apple cider, cranberry juice, ginger ale, white wine vinegar, red wine vingear, lemon juice, chicken broth or vegetable broth
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have spaghetti you can use instead vermicelli, angel hair pasta or rice stick noodles
+[QUESTION]: What can I use instead of spaghetti?
+[ANSWER]: vermicelli, angel hair pasta or rice stick noodles
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have red potatoes you can use instead yukon gold potatoes, white potatoes, yellow potatoes or russet potato
+[QUESTION]: What can I use instead of red potatoes?
+[ANSWER]: yukon gold potatoes, white potatoes, yellow potatoes or russet potato
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chicken breasts you can use instead chicken cacciatora, shrimp aragonate, grilled scallops, seared duck breasts or roast trukey breasts
+[QUESTION]: What can I use instead of chicken breasts?
+[ANSWER]: chicken cacciatora, shrimp aragonate, grilled scallops, seared duck breasts or roast trukey breasts
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have marsala red wine you can use instead madeira, fortified wine, dru sherry, sherry wine and sweet vermouth, amontillado wine and pedro ximenez, port, white grape juice with brandy, non-fortified wine, pinot noir or dry white wine
+[QUESTION]: What can I use instead of marsala red wine?
+[ANSWER]: madeira, fortified wine, dru sherry, sherry wine and sweet vermouth, amontillado wine and pedro ximenez, port, white grape juice with brandy, non-fortified wine, pinot noir or dry white wine
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have unflavoured gelatin you can use instead kudzu, pectin and sugar, arrowroot or agar agar
+[QUESTION]: What can I use instead of unflavoured gelatin?
+[ANSWER]: kudzu, pectin and sugar, arrowroot or agar agar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have porcini mushrooms you can use instead shiitake mushrooms, dried reconstituted shiitake mushrooms, mixed mushrooms or fresh button mushrooms
+[QUESTION]: What can I use instead of porcini mushrooms?
+[ANSWER]: shiitake mushrooms, dried reconstituted shiitake mushrooms, mixed mushrooms or fresh button mushrooms
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cremini mushrooms you can use instead white button mushrooms, portobello mushrooms, shiitake mushrooms or aubergine
+[QUESTION]: What can I use instead of cremini mushrooms?
+[ANSWER]: white button mushrooms, portobello mushrooms, shiitake mushrooms or aubergine
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have white mushrooms you can use instead courgette, sun dried toamtoes, aubergine, garbanzo beans, russel potatoes, tofu or onions
+[QUESTION]: What can I use instead of white mushrooms?
+[ANSWER]: courgette, sun dried toamtoes, aubergine, garbanzo beans, russel potatoes, tofu or onions
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pasta sauce you can use instead toamato paste, ketchup or tomato soup
+[QUESTION]: What can I use instead of pasta sauce?
+[ANSWER]: toamato paste, ketchup or tomato soup
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have lasagna noodles you can use instead macaroni with tomato sauce or flat-sliced courgette
+[QUESTION]: What can I use instead of lasagna noodles?
+[ANSWER]: macaroni with tomato sauce or flat-sliced courgette
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mozzarella cheese you can use instead white cheddar cheese, provolone, gouda, parmesan, ricotta or feta cheese
+[QUESTION]: What can I use instead of mozzarella cheese?
+[ANSWER]: white cheddar cheese, provolone, gouda, parmesan, ricotta or feta cheese
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have baking spray you can use instead butter or lard
+[QUESTION]: What can I use instead of baking spray?
+[ANSWER]: butter or lard
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have gruyere cheese you can use instead comte cheese, beaufort cheese, jalsberg cheese, emmentaler cheese, fontina and parmesan cheese, maasdam and edam cheese or raclette cheese
+[QUESTION]: What can I use instead of gruyere cheese?
+[ANSWER]: comte cheese, beaufort cheese, jalsberg cheese, emmentaler cheese, fontina and parmesan cheese, maasdam and edam cheese or raclette cheese
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cherries you can use instead canned cherries, fresh plums, fresh apricots or fresh nectarines
+[QUESTION]: What can I use instead of cherries?
+[ANSWER]: canned cherries, fresh plums, fresh apricots or fresh nectarines
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have yellow onions you can use instead red onion or white onion, ricotta or feta cheese
+[QUESTION]: What can I use instead of yellow onions?
+[ANSWER]: red onion or white onion, ricotta or feta cheese
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mixed mushrooms you can use instead courgette, sun dried toamtoes, aubergine, garbanzo beans, russel potatoes, tofu or onions
+[QUESTION]: What can I use instead of mixed mushrooms?
+[ANSWER]: courgette, sun dried toamtoes, aubergine, garbanzo beans, russel potatoes, tofu or onions
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have dried white beans you can use instead dried cannellini beans, dried navy beans, dried red beans or dried pinto beans
+[QUESTION]: What can I use instead of dried white beans?
+[ANSWER]: dried cannellini beans, dried navy beans, dried red beans or dried pinto beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have canned peeled tomateos you can use instead crushed tomatoes, diced tomatoes or fresh tomatoes
+[QUESTION]: What can I use instead of canned peeled tomateos?
+[ANSWER]: crushed tomatoes, diced tomatoes or fresh tomatoes
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have swiss chard you can use instead mature spinach, mustard greens, kale or large bok choy
+[QUESTION]: What can I use instead of swiss chard?
+[ANSWER]: mature spinach, mustard greens, kale or large bok choy
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have kale you can use instead collard greens, english spinach, baby spinach, swiss chard, mustard greens, chinese broccoli, broccoli raab or turnip
+[QUESTION]: What can I use instead of kale?
+[ANSWER]: collard greens, english spinach, baby spinach, swiss chard, mustard greens, chinese broccoli, broccoli raab or turnip
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have almond flour you can use instead wheat flour, all-purpose flour, cashew flour, macadamia flour, sunflower seed flour, oat flour or a combination of tapioca flour with coconut flour
+[QUESTION]: What can I use instead of almond flour?
+[ANSWER]: wheat flour, all-purpose flour, cashew flour, macadamia flour, sunflower seed flour, oat flour or a combination of tapioca flour with coconut flour
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have almond extract you can use instead vanilla extract or almond flavoured liquor
+[QUESTION]: What can I use instead of almond extract?
+[ANSWER]: vanilla extract or almond flavoured liquor
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have rose water you can use instead rose essence, jamaica flower water,orange flower water, vanilla extract, almond extract, lavender, lemon juice or cardamom
+[QUESTION]: What can I use instead of rose water?
+[ANSWER]: rose essence, jamaica flower water,orange flower water, vanilla extract, almond extract, lavender, lemon juice or cardamom
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have food colouring you can use instead liquid chlorophyll, matcha powder, spirulina powder, whatgrass juice or parsley juice
+[QUESTION]: What can I use instead of food colouring?
+[ANSWER]: liquid chlorophyll, matcha powder, spirulina powder, whatgrass juice or parsley juice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have marzipan you can use instead almond paste
+[QUESTION]: What can I use instead of marzipan?
+[ANSWER]: almond paste
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have dried black beans you can use instead kidney beans, pinto beans, lentils, soyebans, chickpeas or peas
+[QUESTION]: What can I use instead of dried black beans?
+[ANSWER]: kidney beans, pinto beans, lentils, soyebans, chickpeas or peas
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have lime juice you can use instead lemon juice, lime zest, orange juice or white wine vinegar
+[QUESTION]: What can I use instead of lime juice?
+[ANSWER]: lemon juice, lime zest, orange juice or white wine vinegar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have red bell pepper you can use instead poblano peppers, anaheim peppers, jalapeños, sichuan peppers, cubanelle or red, yellow or orange peppers
+[QUESTION]: What can I use instead of red bell pepper?
+[ANSWER]: poblano peppers, anaheim peppers, jalapeños, sichuan peppers, cubanelle or red, yellow or orange peppers
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cocoa powder you can use instead a chocolate bar, chocolate chips, chocolate coverture, hot chocolate drink powder or carob powder
+[QUESTION]: What can I use instead of cocoa powder?
+[ANSWER]: a chocolate bar, chocolate chips, chocolate coverture, hot chocolate drink powder or carob powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have agave syrup you can use instead honey, simple syrup, maple syrup, brown rice syrup, white sugar, corn syrup or any artificial sweeteners
+[QUESTION]: What can I use instead of agave syrup?
+[ANSWER]: honey, simple syrup, maple syrup, brown rice syrup, white sugar, corn syrup or any artificial sweeteners
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have nutella you can use instead any other chocolate spread or hazelnut and chocolate spread
+[QUESTION]: What can I use instead of nutella?
+[ANSWER]: any other chocolate spread or hazelnut and chocolate spread
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have maraschino cherries you can use instead fresh cherries, amarena cherries or luxardo maraschino cherries
+[QUESTION]: What can I use instead of maraschino cherries?
+[ANSWER]: fresh cherries, amarena cherries or luxardo maraschino cherries
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have maraschino cherry juice you can use instead cherry juice with sugar
+[QUESTION]: What can I use instead of maraschino cherry juice?
+[ANSWER]: cherry juice with sugar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have greek yogurt you can use instead plain yogurt, sour cream, buttermilk, cottage cheese or silken tofu
+[QUESTION]: What can I use instead of greek yogurt?
+[ANSWER]: plain yogurt, sour cream, buttermilk, cottage cheese or silken tofu
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have roasted chicken meat you can use instead rotisserie chicken meat
+[QUESTION]: What can I use instead of roasted chicken meat?
+[ANSWER]: rotisserie chicken meat
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have old bay seasoning you can use instead instead you can make your own by combining 1 tablespoon celery salt, 3 whole bay leaves, 3/4 teaspoon brown mustard seeds, 1/2 teaspoon black peppercorns, 10 allspice berries, 10 whole cloves and 1/2 teaspoon paprika or use crab boil or pickling spice
+[QUESTION]: What can I use instead of old bay seasoning?
+[ANSWER]: instead you can make your own by combining 1 tablespoon celery salt, 3 whole bay leaves, 3/4 teaspoon brown mustard seeds, 1/2 teaspoon black peppercorns, 10 allspice berries, 10 whole cloves and 1/2 teaspoon paprika or use crab boil or pickling spice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have unsalted butter you can use instead shortening, vegetable oil or lard
+[QUESTION]: What can I use instead of unsalted butter?
+[ANSWER]: shortening, vegetable oil or lard
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have butterscotch chips you can use instead caramel chips, chocolate chips or carob chips
+[QUESTION]: What can I use instead of butterscotch chips?
+[ANSWER]: caramel chips, chocolate chips or carob chips
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sirloin steak you can use instead ribeye steak, new York strip steaks, round steak or flank steak
+[QUESTION]: What can I use instead of sirloin steak?
+[ANSWER]: ribeye steak, new York strip steaks, round steak or flank steak
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have dry mustard you can use instead dijon mustard or yellow mustard
+[QUESTION]: What can I use instead of dry mustard?
+[ANSWER]: dijon mustard or yellow mustard
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have white wine you can use instead apple cider vinegar, chicken broth, apple juice, grape juice, white wine vinegar or ginger ale
+[QUESTION]: What can I use instead of white wine?
+[ANSWER]: apple cider vinegar, chicken broth, apple juice, grape juice, white wine vinegar or ginger ale
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cauliflower you can use instead broccoli, courgette or lettuce
+[QUESTION]: What can I use instead of cauliflower?
+[ANSWER]: broccoli, courgette or lettuce
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have orange zest you can use instead any other citrus fruit zest, fruit juice, fruit concentrate, pure extracts or vinegar
+[QUESTION]: What can I use instead of orange zest?
+[ANSWER]: any other citrus fruit zest, fruit juice, fruit concentrate, pure extracts or vinegar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have green bell pepper you can use instead poblano peppers, anaheim peppers, jalapeños, sichuan peppers, pimientos, cubanelle, red bell peppers or yellow bell peppers
+[QUESTION]: What can I use instead of green bell pepper?
+[ANSWER]: poblano peppers, anaheim peppers, jalapeños, sichuan peppers, pimientos, cubanelle, red bell peppers or yellow bell peppers
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chipotle chillies you can use instead fresh jalapeños, serrano peppers or poblano peppers
+[QUESTION]: What can I use instead of chipotle chillies?
+[ANSWER]: fresh jalapeños, serrano peppers or poblano peppers
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chilli powder you can use instead paprika, cumin, garlic powder, onion powder, oregano or cayenne
+[QUESTION]: What can I use instead of chilli powder?
+[ANSWER]: paprika, cumin, garlic powder, onion powder, oregano or cayenne
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ground coriander you can use instead cumin, caraway, garam masala or curry powder
+[QUESTION]: What can I use instead of ground coriander?
+[ANSWER]: cumin, caraway, garam masala or curry powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ground cumin you can use instead ground coriander, caraway seeds, chilli powder, taco seasoning, curry powder, garam masala, paprika or fennel seeds
+[QUESTION]: What can I use instead of ground cumin?
+[ANSWER]: ground coriander, caraway seeds, chilli powder, taco seasoning, curry powder, garam masala, paprika or fennel seeds
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have ground buffalo you can use instead ground bison or ground beef
+[QUESTION]: What can I use instead of ground buffalo?
+[ANSWER]: ground bison or ground beef
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pinto beans you can use instead black beans, navy beans, borlotti beans, red beans, kidney beans, white beans or cannellini beans
+[QUESTION]: What can I use instead of pinto beans?
+[ANSWER]: black beans, navy beans, borlotti beans, red beans, kidney beans, white beans or cannellini beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have masa harina flour you can use instead corn meal, gritis, regular flour, ground corn tortillas, corn starch, fresh masa or masa preparada
+[QUESTION]: What can I use instead of masa harina flour?
+[ANSWER]: corn meal, gritis, regular flour, ground corn tortillas, corn starch, fresh masa or masa preparada
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have green beans you can use instead nopalitos, thin asparagus stalks or wax beans
+[QUESTION]: What can I use instead of green beans?
+[ANSWER]: nopalitos, thin asparagus stalks or wax beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have white flour you can use instead almond flour, coconut flour, quinoa flour, chickpea flour, brown rice flour, oat flour, spelt flour or buckwheat flour
+[QUESTION]: What can I use instead of white flour?
+[ANSWER]: almond flour, coconut flour, quinoa flour, chickpea flour, brown rice flour, oat flour, spelt flour or buckwheat flour
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cardamom you can use instead cinnamon and cloves, cinnamon and nutmeg or allspice powder
+[QUESTION]: What can I use instead of cardamom?
+[ANSWER]: cinnamon and cloves, cinnamon and nutmeg or allspice powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have caster sugar you can use instead granulated sugar
+[QUESTION]: What can I use instead of caster sugar?
+[ANSWER]: granulated sugar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have free-range eggs you can use instead banana, flaxseed, chia seeds, applesauce or organic eggs
+[QUESTION]: What can I use instead of free-range eggs?
+[ANSWER]: banana, flaxseed, chia seeds, applesauce or organic eggs
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have shortening you can use instead butter, coconut oil, margarine, lard, vegetable oil or vegan butter
+[QUESTION]: What can I use instead of shortening?
+[ANSWER]: butter, coconut oil, margarine, lard, vegetable oil or vegan butter
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have vinegar you can use instead lemon or lemon juice
+[QUESTION]: What can I use instead of vinegar?
+[ANSWER]: lemon or lemon juice
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have mung beans you can use instead snow peas or pigeon peas
+[QUESTION]: What can I use instead of mung beans?
+[ANSWER]: snow peas or pigeon peas
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have hash browns you can use instead cauliflower hash browns, keto has browns or fries
+[QUESTION]: What can I use instead of hash browns?
+[ANSWER]: cauliflower hash browns, keto has browns or fries
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have cream of chicken soup you can use instead sour cream, yogurt, tomato sauce or eggs and milk
+[QUESTION]: What can I use instead of cream of chicken soup?
+[ANSWER]: sour cream, yogurt, tomato sauce or eggs and milk
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have colby cheese you can use instead pata cabra cheese, fontina cheese, limburguer cheese or carciotta cheese
+[QUESTION]: What can I use instead of colby cheese?
+[ANSWER]: pata cabra cheese, fontina cheese, limburguer cheese or carciotta cheese
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sherry you can use instead white wine vinegar, apple cider vinegar, sherry vinegar or port wine
+[QUESTION]: What can I use instead of sherry?
+[ANSWER]: white wine vinegar, apple cider vinegar, sherry vinegar or port wine
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have sesame oil you can use instead perilla oil, walnut oil, oilve oil, canola oil, avocado oil, tahini or roasted sesame seed
+[QUESTION]: What can I use instead of sesame oil?
+[ANSWER]: perilla oil, walnut oil, oilve oil, canola oil, avocado oil, tahini or roasted sesame seed
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have garlic sauce you can use instead harissa sauce, sriracha, ketchup with garlic or red pepper flakes
+[QUESTION]: What can I use instead of garlic sauce?
+[ANSWER]: harissa sauce, sriracha, ketchup with garlic or red pepper flakes
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have red pepper flakes you can use instead dried peppers, ground cayenne pepper or chilli powder
+[QUESTION]: What can I use instead of red pepper flakes?
+[ANSWER]: dried peppers, ground cayenne pepper or chilli powder
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have dill you can use instead fennel, thyme, rosemary, parsley, chevil, basil or tarragon
+[QUESTION]: What can I use instead of dill?
+[ANSWER]: fennel, thyme, rosemary, parsley, chevil, basil or tarragon
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have smoked salmon you can use instead smked mackerel, sardines, or pink snapper
+[QUESTION]: What can I use instead of smoked salmon?
+[ANSWER]: smked mackerel, sardines, or pink snapper
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have arborio rice you can use instead pearled barley, basmati rice, brown rice, carnaroli rice, sushi rice, quinoa or bulgur wheat
+[QUESTION]: What can I use instead of arborio rice?
+[ANSWER]: pearled barley, basmati rice, brown rice, carnaroli rice, sushi rice, quinoa or bulgur wheat
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have marinara sauce you can use instead tomato sauce mixed with water
+[QUESTION]: What can I use instead of marinara sauce?
+[ANSWER]: tomato sauce mixed with water
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have baby green peas you can use instead black-eyed peas, lima beans or fresh cranberry beans
+[QUESTION]: What can I use instead of baby green peas?
+[ANSWER]: black-eyed peas, lima beans or fresh cranberry beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have bread crumbs you can use instead almonds, walnuts, chia seeds or flax seeds
+[QUESTION]: What can I use instead of bread crumbs?
+[ANSWER]: almonds, walnuts, chia seeds or flax seeds
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have flour tortillas you can use instead corn tortillas, grain-free tortillas, lettuce wraps or spinach wraps
+[QUESTION]: What can I use instead of flour tortillas?
+[ANSWER]: corn tortillas, grain-free tortillas, lettuce wraps or spinach wraps
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have chillies you can use instead red bell pepper flakes or smoked paprika
+[QUESTION]: What can I use instead of chillies?
+[ANSWER]: red bell pepper flakes or smoked paprika
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have guacamole you can use instead nut butter, pesto, edamame beans, hummus or mockamole
+[QUESTION]: What can I use instead of guacamole?
+[ANSWER]: nut butter, pesto, edamame beans, hummus or mockamole
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have refried beans you can use instead chilli beans, rattlesnake beans, red kidney beans or cranberry beans
+[QUESTION]: What can I use instead of refried beans?
+[ANSWER]: chilli beans, rattlesnake beans, red kidney beans or cranberry beans
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have angel food cake mix you can use instead sponge cake mix
+[QUESTION]: What can I use instead of angel food cake mix?
+[ANSWER]: sponge cake mix
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have milkfish you can use instead mullet fish
+[QUESTION]: What can I use instead of milkfish?
+[ANSWER]: mullet fish
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have calamansi juice you can use instead lime juice, orange juice, vinegar, citric acid, lemon zest, white wine, lemon extract or cream of tartar
+[QUESTION]: What can I use instead of calamansi juice?
+[ANSWER]: lime juice, orange juice, vinegar, citric acid, lemon zest, white wine, lemon extract or cream of tartar
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pickles you can use instead chopped dill pickles, freen olives, capers, green bell peppers, celery or cucumbers
+[QUESTION]: What can I use instead of pickles?
+[ANSWER]: chopped dill pickles, freen olives, capers, green bell peppers, celery or cucumbers
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have eggplant you can use instead okra, zuchinni, mushrooms, summer squash or root vegetables
+[QUESTION]: What can I use instead of eggplant?
+[ANSWER]: okra, zuchinni, mushrooms, summer squash or root vegetables
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have grapes you can use instead baby kiwi, mayhaw berries, white mulberries or elderberry
+[QUESTION]: What can I use instead of grapes?
+[ANSWER]: baby kiwi, mayhaw berries, white mulberries or elderberry
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have pork you can use instead chicken or tempeh
+[QUESTION]: What can I use instead of pork?
+[ANSWER]: chicken or tempeh
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have annatto powder you can use instead hibiscus powder, tumeric powder, nutmeg, beet powder and paprika
+[QUESTION]: What can I use instead of annatto powder?
+[ANSWER]: hibiscus powder, tumeric powder, nutmeg, beet powder and paprika
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: If you do not have kinchay you can use instead parsley, basil or herb mixtures
+[QUESTION]: What can I use instead of kinchay?
+[ANSWER]: parsley, basil or herb mixtures
+<|endoftext|>

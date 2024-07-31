@@ -1,0 +1,742 @@
+	if name == "plain flour":
+            message = "instead you can use; oat flour, bread flour, cake flour or coconut flour, do you have any of these ingredients?"
+        if name == "olive oil":
+            message = "instead you can use; peanut oil, butter, coconut milk, ghee, walnut oil, sunflower oil, canola oil or vegetable oil, do you have any of these ingredients?"
+        if name == "salt":
+            message = "instead you can use; mint, rosemary, nutmeg, basil, cardamon, chili, cinnamon or chives, do you have any of these ingredients?"
+        if name == "black pepper":
+            message = "instead you can use; white pepper, cayenne pepper or papaya seeds, do you have any of these ingredients?"
+        if name == "eggs":
+            message = "instead you can use; commerical egg substitute or tofu, do you have any of these ingredients?"
+        if name == "milk":
+            message = "instead you can use; cream, powerdered milk, plain yogurt, nut milk, soy milk, oat milk or rice milk, do you have any of these ingredients?"
+        if name == "sausage":
+            message = "instead you can use; vegetarian sausages, do you have any of these ingredients?"
+        if name == "mustard":
+            message = "instead you can use; turmeric, wasabi powder or horseradish powder, do you have any of these ingredients?"
+        if name == "beef stock":
+            message = "instead you can use; vegetable stock, chicken stock, bouillion stock or red wine, do you have any of these ingredients?"
+        if name == "cabbage":
+            message = "instead you can use; brussels sprouts, yu choy, kangkong or bok choy, do you have any of these ingredients?"
+        if name == "garlic":
+            message = "instead you can use; garlic oil, onion, chives or lemon zest, do you have any of these ingredients?"
+        if name == "mixed herbs":
+            message = "instead you can use; basil, marjoram, min, oregano or parsley, do you have any of these ingredients?"
+        if name == "butter":
+            message = "instead you can use; olive oil, ghee, greek yogurt, avocado, pumpkin puree or coconut oil, do you have any of these ingredients?"
+        if name == "potato":
+            message = "instead you can use; cauliflower or cabbage, do you have any of these ingredients?"
+        if name == "frozen peas":
+            message = "instead you can use; lima beans, green pepper, green onion or broad beans, do you have any of these ingredients?"
+        if name == "mushrooms":
+            message = "instead you can use; zucchini, eggplant, chickpeas, tofu, onions or cilantro, do you have any of these ingredients?"
+        if name == "oat meal":
+            message = "instead you can use; amaranth, teff, buckwheat, wheat berries, spelt or quinoa, do you have any of these ingredients?"
+        if name == "yeast":
+            message = "instead you can use; baking powder. baking soda or sourdough, do you have any of these ingredients?"
+        if name == "bacon":
+            message = "instead you can use; pork, chicken or turkey bacon, do you have any of these ingredients?"
+        if name == "tomatoes":
+            message = "instead you can use; olives, red peppers or red capsicum, do you have any of these ingredients?"
+        if name == "baked beans":
+            message = "instead you can use; peas or chickpeas, do you have any of these ingredients?"
+        if name == "paprika":
+            message = "instead you can use; catenne pepper, chili powder or chili flakes, do you have any of these ingredients?"
+        if name == "feta":
+            message = "instead you can use; ricotta, halloumi, goats cheese or queso fresco, do you have any of these ingredients?"
+        if name == "parsley":
+            message = "instead you can use; chervil, tarragon, chives, oregano, arugula, endive, cilantro or basil, do you have any of these ingredients?"
+        if name == "cheddar":
+            message = "instead you can use; cantal, edam, mimolette, gouda, emmental or french gruyere, do you have any of these ingredients?"
+        if name == "pork fillet":
+            message = "instead you can use; pork sirloin, pork tenderloin, chicken, turkey or beef, do you have any of these ingredients?"
+        if name == "red peppers":
+            message = "instead you can use; poblano peppers, cubanelle, anaheim peppers, pepperoncini, jalapeno, pimiento, zucchini or broccoli, do you have any of these ingredients?"
+        if name == "courgette":
+            message = "instead you can use; cucumber or zucchini do you have any of these ingredients?"
+        if name == "chickpeas":
+            message = "instead you can use; green peas, cannellini beans, black beans, lentils, soybeans, mung beans, peanuts or hazelnuts, do you have any of these ingredients?"
+        if name == "chicken stock":
+            message = "instead you can use; beef stock or vegatable stock, do you have any of these ingredients?"
+        if name == "muscovado sugar":
+            message = "instead you can use; demerara sugar or brown sugar, do you have any of these ingredients?"
+        if name == "balsamic vinegar":
+            message = "instead you can use; red wine vinegar, lemon juice or lime juice, do you have any of these ingredients?"
+        if name == "paraham":
+            message = "instead you can use; smoked ham, pork chops, bacon, prosciutti or cooked ham, do you have any of these ingredients?"
+        if name == "passata":
+            message = "instead you can use; tomatoes. pasta sauce, tomato paste, ketchup or fresh tomatoes, do you have any of these ingredients?"
+        if name == "goats cheese":
+            message = "instead you can use; cream cheese, mascarpone cheese, feta cheese or ricotta cheese, do you have any of these ingredients?"
+        if name == "basil":
+            message = "instead you can use; marajoram, mint, parsley, oregano or thyme, do you have any of these ingredients?"
+        if name == "golden syrup":
+            message = "instead you can use; honey, cane syrup or brown rice syrup, do you have any of these ingredients?"
+        if name == "breadcrumbs":
+            message = "instead you can use; oats, chrshed chips, nuts, crackers, pretzels or cereal, do you have any of these ingredients?"
+        if name == "lemon":
+            message = "instead you can use; lime. orange, white wine, cream of tartar or citric acid, do you have any of these ingredients?"
+        if name == "sunflower oil":
+            message = "instead you can use; vegetable oil, peanut oil, canola oil, walnut oil, butter, safflower oil, corn oil or grapeseed oil, do you have any of these ingredients?"
+        if name == "sweet potato":
+            message = "instead you can use; garnet potatoes, jewel potatoes, yukon potatoes, carrots, parsnips, pumpkin or butternut, do you have any of these ingredients?"
+        if name == "apple":
+            message = "instead you can use; pear, do you have any of these ingredients?"
+        if name == "curry powder":
+            message = "instead you can use; cumin, coriander, chilli, tumeric or black pepper, do you have any of these ingredients?"
+        if name == "tomato puree":
+            message = "instead you can use; tomato sauce, pizza sauce, tomato, canned tomatoes or ketchup, do you have any of these ingredients?"
+        if name == "mango chutney":
+            message = "instead you can use; apricot, mango salsa or marmalade, do you have any of these ingredients?"
+        if name == "basmati rice":
+            message = "instead you can use; jasmine rice, brown rice, white rice or texmati rice, do you have any of these ingredients?"
+        if name == "sour cream":
+            message = "instead you can use; greek jogurt, cottage cheese, creme fraiche or buttermilk, do you have any of these ingredients?"
+        if name == "coriander":
+            message = "instead you can use; cumin, garam masala, curry powder or caraway, do you have any of these ingredients?"
+        if name == "braising steak":
+            message = "instead you can use; diced beef, sirloin steak or rump steak, do you have any of these ingredients?"
+        if name == "brown ale":
+            message = "instead you can use; beef stock, chicken stock or vegatable stock, do you have any of these ingredients?"
+        if name == "celery":
+            message = "instead you can use; fennel, onion, scallions, carrots, shallots, garlic, chives or leeks, do you have any of these ingredients?"
+        if name == "bay leaf":
+            message = "instead you can use; thyme, oregano or boldo leaf, do you have any of these ingredients?"
+        if name == "thyme":
+            message = "instead you can use; oregano, marjoram, rosemary, savoury or basil, do you have any of these ingredients?"
+        if name == "carrots":
+            message = "instead you can use; parsnips, daikon, turnip or celery, do you have any of these ingredients?"
+        if name == "onions":
+            message = "instead you can use, leeks, chives, garlic, carrors or tomatoes, do you have any of these ingredients?"
+        if name == "cornstarch":
+            message = "instead you can use, wheat flour, arrowroot, potao starch, rice flour, ground flaxseeds, glucomannan or psyllium husk, do you have any of these ingredients?"
+        if name == "pectin":
+            message = "instead you can use, citrus peels, cornstarch or geletine, do you have any of these ingredients?"
+        if name == "heavy cream":
+            message = "instead you can use, milk and butter combined, soy milks and olive oil, milk and cornstarch, greek yogurt, evaporated milk or cottage cheese and milk, do you have any of these ingredients?"
+        if name == "vegetable shortening":
+            message = "instead you can use butter or magarine, do you have any of these ingredients?"
+        if name == "vanilla extract":
+            message = "instead you can use, maple syrup, almond extract, bourbon, brandy, rum, do you have any of these ingredients?"            
+        if name == "powdered sugar":
+            message = "instead you can use, sweetner or cornstarch do you have any of these ingredients?"            
+        if name == "maple syrup":
+            message = "instead you can use, honey, corn syrup or agave nectar, do you have any of these ingredients?"            
+        if name == "sprinkles":
+            message = "instead you can use, brown sugar or honey, do you have any of these ingredients?"            
+        if name == "cinnamon powder":
+            message = "instead you can use, all spice or or nutmeg, do you have any of these ingredients?"            
+        if name == "cooking spray":
+            message = "instead you can use, butter or olive oil, do you have any of these ingredients?"
+        if name == "canned pumpkin":
+            message = "instead you can use, mashed sweet potato or butternut squash, do you have any of these ingredients?"            
+        if name == "brown sugar":
+            message = "instead you can use, white sugar, honey, maple syrup, coconut sugar or muscovado sugar, do you have any of these ingredients?"            
+        if name == "pumpkin":
+            message = "instead you can use, butternut, honeynut or acorn squash, do you have any of these ingredients?"            
+        if name == "cinamon":
+            message = "instead you can use, cassia, allspice, clives, nutmeg or cardamom, do you have any of these ingredients?"            
+        if name == "nutmeg":
+            message = "instead you can use, mace, garam masala, allspice, cinnamon, apple pie spice, giner or cloves, do you have any of these ingredients?"            
+        if name == "allspice":
+            message = "instead you can use, cinnamon, nutmeg, cloves or applie pie spice, do you have any of these ingredients?"            
+        if name == "ground cloves":
+            message = "instead you can use, allspice, caradamon, pumpkin pie spice or cinnamon, do you have any of these ingredients?"            
+        if name == "ginger":
+            message = "instead you can use, cardamom, allspice, cinnamon, nutmeg or mace, do you have any of these ingredients?"            
+        if name == "berbere seasoning":
+            message = "instead you can use, cayenne pepper or ras el hanout, do you have any of these ingredients?"            
+        if name == "tomato paste":
+            message = "instead you can use, soy sauce, olive tapenade, canned tomatoes or tomato ketchup, do you have any of these ingredients?"            
+        if name == "red lentils":
+            message = "instead you can use, yellow lentils or green lentils, do you have any of these ingredients?"            
+        if name == "strawberries":
+            message = "instead you can use, rasberries, red grapes or blueberries, do you have any of these ingredients?"            
+        if name == "pineapple":
+            message = "instead you can use, apple, orange, kiwi or grape, do you have any of these ingredients?"            
+        if name == "red onion":
+            message = "instead you can use, yellow onions, leeks, shallots or onion juice, poweder or flakes, do you have any of these ingredients?"            
+        if name == "sweet red pepper":
+            message = "instead you can use, , do you have any of these ingredients?"            
+        if name == "cilantro":
+            message = "instead you can use parsley, mint, basil, chives, green onions, dill or carrot greens, do you have any of these ingredients?"            
+        if name == "key lime juice":
+            message = "instead you can use, lemon juice or lemon extract, do you have any of these ingredients?"            
+        if name == "unsalted butter":
+            message = "instead you can use, maragarine, vegetable shortening, coconut oil or salted butter, do you have any of these ingredients?"            
+        if name == "egg yolk":
+            message = "instead you can use, apple sauce, mashed banana, ground flaxseeds, chia seeds, commerial egg replacer, silken tofu or buttermilk, do you have any of these ingredients?"            
+        if name == "pear":
+            message = "instead you can use, apples, asain pears, quinces, figs or pepinos, do you have any of these ingredients?"            
+        if name == "lemon juice":
+            message = "instead you can use, lime juice, orange juice, vinegar, citric acid, white wine, lemon extract or cream or tartar, do you have any of these ingredients?"            
+        if name == "black beans":
+            message = "instead you can use, chickpeas, kidney beans, lentils, cauliflower or nuts, do you have any of these ingredients?"
+        if name == "pork ribs":
+            message = "instead you can use, pork chops, or pork belly, do you have any of these ingredients?"            
+        if name == "smokey bacon":
+            message = "instead you can use, liquid smoke, smoked paprila, veggie bacon, dark beer or blackstrap moasses, do you have any of these ingredients?"            
+        if name == "pork belly":
+            message = "instead you can use, pork chops or pork ribs, do you have any of these ingredients?"            
+        if name == "dried chili":
+            message = "instead you can use, serrano pepper, cayenne pepper, pequin chili or jalapeno, do you have any of these ingredients?"            
+        if name == "cumin":
+            message = "instead you can use, ground coriander, caraway seeds, chili powder, taco seasoning, curry powder or garam masala, do you have any of these ingredients?"            
+        if name == "oregano":
+            message = "instead you can use, mint, parsley or poultry seasoning, do you have any of these ingredients?"            
+        if name == "beans":
+            message = "instead you can use, tofu, sourgram, cauliflowder florets, tempeh, quinoa, peas or eggplant, do you have any of these ingredients?"            
+        if name == "long grain rice":
+            message = "instead you can use, white rice, brown rice or egg friend rice, do you have any of these ingredients?"            
+        if name == "star anise":
+            message = "instead you can use, allspice, chinese five spice powder or chili powder, do you have any of these ingredients?"        
+        if name == "spring onions":
+            message = "instead you can use, challots, green onions, red onions or celery , do you have any of these ingredients?"            
+        if name == "miso paste":
+            message = "instead you can use, soy sauce, salt, tahini or vegetable stock, do you have any of these ingredients?"            
+        if name == "mirin":
+            message = "instead you can use, dry sherry or sweet masala wine, do you have any of these ingredients?"            
+        if name == "soy sauce":
+            message = "instead you can use, tamari, worcestershire sauce, coconut aminos, miso paste or maggi seasoning, do you have any of these ingredients?"            
+        if name == "shiitake mushrooms":
+            message = "instead you can use, portobello mushrooms, crimini mushrooms or porcini mushrooms, do you have any of these ingredients?"            
+        if name == "baby spinach":
+            message = "instead you can use, rocket, spinach, watercress or beet greens, do you have any of these ingredients?"            
+        if name == "white pepper":
+            message = "instead you can use, ground giner, ground mustard or pink peppercorns, do you have any of these ingredients?"            
+        if name == "furikake":
+            message = "instead you can use, crumbled nori seaweed, sesame seeds or togarashi, do you have any of these ingredients?"            
+        if name == "pasta":
+            message = "instead you can use, spaghetti, eggplant lasagna, cabbage noodles, sprouts or onion noodles, do you have any of these ingredients?"            
+        if name == "curry leaves":
+            message = "instead you can use, lime zest, bay leves, basil leaves, lemon zest or daun salam leaves, do you have any of these ingredients?"            
+        if name == "asafoetida":
+            message = "instead you can use, garlic powder, garlic cloves or  , do you have any of these ingredients?"            
+        if name == "peanuts":
+            message = "instead you can use, beans, pretzels, seeds, tahini, sunflower seeds or almonds, do you have any of these ingredients?"    
+        if name == "almonds":
+            message = "instead you can use, breadcrumbs, ground rice, semolina or polenta, do you have any of these ingredients?"
+        if name == "sesame seeds":
+            message = "instead you can use, poppy seeds or hemp seeds, do you have any of these ingredients?"            
+        if name == "golden raisins":
+            message = "instead you can use, pitted dates, prines or dried cranberries , do you have any of these ingredients?"            
+        if name == "cashew nuts":
+            message = "instead you can use, pine nuts, almonds, walknuts, hazelnuts or sunflower seeds, do you have any of these ingredients?"            
+        if name == "green chili":
+            message = "instead you can use, banana pepper, anaheim pepper, poblano pepper, jalapeno, serrano or chilli powder, do you have any of these ingredients?"            
+        if name == "rib roast":
+            message = "instead you can use, prok belly or pork chops, do you have any of these ingredients?"            
+        if name == "kosher salt":
+            message = "instead you can use, sea saly, brine or coarse himalayan pink salt, do you have any of these ingredients?"            
+        if name == "worcestershire sauce":
+            message = "instead you can use, soy sauce, miso paste, soy sauce and ketcup r soy cause and apple sauce, do you have any of these ingredients?"            
+        if name == "liquid smoke":
+            message = "instead you can use, smoked paprika, smoke tea or chipotle powder, do you have any of these ingredients?"            
+        if name == "beef broth":
+            message = "instead you can use, vegetable broth, bouillon cubes, soy sauce or mushroom broth, do you have any of these ingredients?"            
+        if name == "mustard powder":
+            message = "instead you can use, tumeri powder, wasabi powder or mustard seed, do you have any of these ingredients?"            
+        if name == "coriander powder":
+            message = "instead you can use, cumin, garam masala, curry powder or caraway, do you have any of these ingredients?"            
+        if name == "onion powder":
+            message = "instead you can use, onion flakes, minced onion, fresh onion or garlc powder, do you have any of these ingredients?"            
+        if name == "bay leaves":
+            message = "instead you can use, dried thyme or oregano, do you have any of these ingredients?"            
+        if name == "dried thyme":
+            message = "instead you can use, oregano, marjoram, rosemary, savoury,or basil, do you have any of these ingredients?"            
+        if name == "rosemary":
+            message = "instead you can use, thyme, tarragon or savory, do you have any of these ingredients?"            
+        if name == "yellow pepper":
+            message = "instead you can use, red pepper, green pepper, orange bell peppers, do you have any of these ingredients?"            
+        if name == "chorizo":
+            message = "instead you can use, smoked paprika or bacon rind, do you have any of these ingredients?"            
+        if name == "cannellini beans":
+            message = "instead you can use, red kideny beans, great northen beans or navy beans, do you have any of these ingredients?"
+        if name == "italian seasoniong":
+            message = "instead you can use, basil, marjoram, oregano, rosemary or thyme, do you have any of these ingredients?"
+        if name == "garlic salt":
+            message = "instead you can use, garlic powder, kosher salt, garlic cloves or garlic powder and salt, do you have any of these ingredients?"            
+        if name == "pepe pasta":
+            message = "instead you can use, arugula or kale, do you have any of these ingredients?"            
+        if name == "parmesan cheese":
+            message = "instead you can use, gran padano or american grana, dry jack or pecorino, do you have any of these ingredients?"
+        if name == "spinach":
+            message = "instead you can use, argula or kale, do you have any of these ingredients?"            
+        if name == "ricotta":
+            message = "instead you can use, goats cheese, cottage cheese, sour cream, cream cheese or queso fresco, do you have any of these ingredients?"            
+        if name == "boiled ham":
+            message = "instead you can use, candian bacon or gammon, do you have any of these ingredients?"            
+        if name == "spice rub":
+            message = "instead you can use, BBQ seasoning, italian seasoning or allspiace, do you have any of these ingredients?"            
+        if name == "cayenne pepper":
+            message = "instead you can use, chili powder, paprika or red chili flakes, do you have any of these ingredients?"            
+        if name == "peanut sauce":
+            message = "instead you can use, almond butter or cashew butter, do you have any of these ingredients?"            
+        if name == "jalapeno pepper":
+            message = "instead you can use, serrano pepper, fresno pepper, anaheim pepper pr pblano pepper, do you have any of these ingredients?"            
+        if name == "chicken broth":
+            message = "instead you can use, beef stock, vegetable stock or lamb stock, do you have any of these ingredients?"            
+        if name == "peanut butter":
+            message = "instead you can use, sunflower seed butter, cookie butter, or coconut butter, do you have any of these ingredients?"            
+        if name == "coconut milk":
+            message = "instead you can use, soy milk, almond milk, oat milk or rice milk, do you have any of these ingredients?"            
+        if name == "figs":
+            message = "instead you can use, raisins, prines or dried apriocots, do you have any of these ingredients?"            
+        if name == "honey":
+            message = "instead you can use, date paste, agave nectar, maple syrup or brown rice sugar, do you have any of these ingredients?"            
+        if name == "apple vinegar":
+            message = "instead you can use, rice vinegar, red wine vinegar, lemon juice or champagne vinegar, do you have any of these ingredients?"            
+        if name == "deli ham":
+            message = "instead you can use, roasted chicken or canned salmon, do you have any of these ingredients?"            
+        if name == "swiss cheese":
+            message = "instead you can use, fontina cheese, cheddar cheese or mozzerella cheese, do you have any of these ingredients?"            
+        if name == "milk yoghurt":
+            message = "instead you can use, buttermilk, or sour cream, do you have any of these ingredients?"            
+        if name == "confectioners sugar":
+            message = "instead you can use, granulated sugar or brown sugar, do you have any of these ingredients?"            
+        if name == "low fat greek yogurt":
+            message = "instead you can use, buttermilk, tofu, cottage cheese or sour cream, do you have any of these ingredients?"            
+        if name == "butternut squash":
+            message = "instead you can use, buttercup squash, pupkin, carrots or acorn squash, do you have any of these ingredients?"            
+        if name == "chili flakes":
+            message = "instead you can use, cayenne pepper, black cardamon or fennel seeds, do you have any of these ingredients?"            
+        if name == "broccoli":
+            message = "instead you can use, kale, leafy greens, asparagus, or baby spinach leaves, do you have any of these ingredients?"            
+        if name == "gorgonzola":
+            message = "instead you can use, roquefort, stilon, danish blue or creamy blue cheese, do you have any of these ingredients?"            
+        if name == "leek":
+            message = "instead you can use, green onions, red onions, challots or celery, do you have any of these ingredients?"            
+        if name == "fennel":
+            message = "instead you can use, anise seeds, cumin seeds, caraway seeds or dill, do you have any of these ingredients?"            
+        if name == "acord squash":
+            message = "instead you can use, butternut squash or pumpkin squash, do you have any of these ingredients?"            
+        if name == "sea slat flakes":
+            message = "instead you can use, table salt or maldon salt, do you have any of these ingredients?"            
+        if name == "tarragon":
+            message = "instead you can use, dill, basil or marjoram, do you have any of these ingredients?"            
+        if name == "hazelnuts":
+            message = "instead you can use, walnuts, macadamia nuts or almonds, do you have any of these ingredients?"            
+        if name == "mature cheddar cheese":
+            message = "instead you can use, gouda or parmesan cheese, do you have any of these ingredients?"            
+        if name == "tilapia":
+            message = "instead you can use, catfish, striped bass, red snapper or rainbow trout, do you have any of these ingredients?"            
+        if name == "panko breadcrumbs":
+            message = "instead you can use, regular breadcrumbs, cracker crumbs, matzo meal, crushed cornflakes or dry stuffing mix, do you have any of these ingredients?"            
+        if name == "parmesan cheese":
+            message = "instead you can use, grana padano, piave cheese or pecorino, do you have any of these ingredients?"            
+        if name == "paprika":
+            message = "instead you can use, cayenne pepper, chili powder, chili flakes or red chili, do you have any of these ingredients?"            
+        if name == "cream cheese":
+            message = "instead you can use, cottage cheese, mascarphone, tofu, ricotta cheese or sour cream, do you have any of these ingredients?"            
+        if name == "hot sauce":
+            message = "instead you can use, chili powder, chili flakes, harissa, or curry paste, do you have any of these ingredients?"            
+        if name == "tortilla wraps":
+            message = "instead you can use, lettice wraps or pita bread, do you have any of these ingredients?"            
+        if name == "marrow":
+            message = "instead you can use, courgette or squash, do you have any of these ingredients?"            
+        if name == "semolina":
+            message = "instead you can use, flour, bread flour or whole wheat flour, do you have any of these ingredients?"            
+        if name == "northen beans":
+            message = "instead you can use, navy beans, cannellini beans or lima beans, do you have any of these ingredients?"            
+        if name == "dry mustard powder":
+            message = "instead you can use, dijon mustard or tumeric, do you have any of these ingredients?"                        
+        if name == "ansjovis":
+            message = "instead you can use, shrimp, shrimp paste, capers or asian fish sauce, do you have any of these ingredients?"            
+        if name == "shallots":
+            message = "instead you can use, sweet onions, leeks, garlic scapes, red onions or green onions, do you have any of these ingredients?"            
+        if name == "tumeric":
+            message = "instead you can use, ginger powder, cumin, saffron or annatto powder, do you have any of these ingredients?"            
+        if name == "galangal":
+            message = "instead you can use, fresh ginger or ginger powder, do you have any of these ingredients?"            
+        if name == "lemongrass":
+            message = "instead you can use, lemon grass, lemon juice, lime zest or lemon balm, do you have any of these ingredients?"            
+        if name == "dry yeast":
+            message = "instead you can use, equal parts lemon juice and baking soda , do you have any of these ingredients?"            
+        if name == "almonds":
+            message = "instead you can use, breadcrumbs, ground rice and polenta, do you have any of these ingredients?"            
+        if name == "aniseed":
+            message = "instead you can use, star anise, fennel seed, teaspoon caraway seed or chopped tarragon, do you have any of these ingredients?"            
+        if name == "asparagus":
+            message = "instead you can use, broccoli, celery, green beans or lettuce, do you have any of these ingredients?"            
+        if name == "jicama":
+            message = "instead you can use, daikon radish or jerusalem artichokes, do you have any of these ingredients?"            
+        if name == "red cabbage":
+            message = "instead you can use, white cabbage or napa cabbage, do you have any of these ingredients?"            
+        if name == "purple cabbage":
+            message = "instead you can use, napa cabbage, breussels sprouts, bok choy and celery, do you have any of these ingredients?"            
+        if name == "lettuce":
+            message = "instead you can use, spinach or parsley, do you have any of these ingredients?"            
+        if name == "blueberries":
+            message = "instead you can use, acai berries, blackberries, huckleberries, raspberries or currents, do you have any of these ingredients?"            
+        if name == "mint":
+            message = "instead you can use, peppermint or parsely, do you have any of these ingredients?"            
+        if name == "mine confit zest":
+            message = "instead you can use, lemon zest or lime zest, do you have any of these ingredients?"            
+        if name == "chinese oyster sauce":
+            message = "instead you can use, soy sauce, hoisin sauce or fish sauce, do you have any of these ingredients?"            
+        if name == "apple cider vinegar":
+            message = "instead you can use, red wine, white wine or sherry vinegar, do you have any of these ingredients?"            
+        if name == "saffron":
+            message = "instead you can use, turmeric or cumin, do you have any of these ingredients?"            
+        if name == "mussels":
+            message = "instead you can use, shrimp, prawns or clam, do you have any of these ingredients?"            
+        if name == "prawns":
+            message = "instead you can use, mussels, clam or shrimp, do you have any of these ingredients?"            
+        if name == "monkfish":
+            message = "instead you can use, snapper, sea bass, halibut or sea scallops, do you have any of these ingredients?"            
+        if name == "squid":
+            message = "instead you can use, prawns oe firm white fish, do you have any of these ingredients?"            
+        if name == "risotto rice":
+            message = "instead you can use, brown rice, sushi rice, basmati rice or quinoa, do you have any of these ingredients?"
+        if name == "dry white wine":
+            message = "instead you can use, apple cider vinegar, chicken broth, white grape juice or ginger ale, do you have any of these ingredients?"            
+        if name == "chicken legs":
+            message = "instead you can use, chicke drumsticks or chicken thighs, do you have any of these ingredients?"            
+        if name == "cherry tomatoes":
+            message = "instead you can use, olives, red pepper or canned tomatoes, do you have any of these ingredients?"            
+        if name == "capers":
+            message = "instead you can use, green olives, anchovies or pickles, do you have any of these ingredients?"            
+        if name == "djion mustard":
+            message = "instead you can use, yellow mustard, honey mustard, wasabi or mayonnaise, do you have any of these ingredients?"            
+        if name == "beef bouillon":
+            message = "instead you can use, chicken broth or vegetable stock, do you have any of these ingredients?"            
+        if name == "celery seeds":
+            message = "instead you can use, flat leaf parsley or dill seed, do you have any of these ingredients?"            
+        if name == "chickpeas":
+            message = "instead you can use, green peas, lentils, soybeans, mung beans or peanuts, do you have any of these ingredients?"            
+        if name == "lamb stock":
+            message = "instead you can use, chicken stock or vegetable stock, do you have any of these ingredients?"            
+        if name == "canned tomatoes":
+            message = "instead you can use, fresh tomatoes, sun dried tomatoes or red peppers, do you have any of these ingredients?"
+        if name == "caramilk chocolate":
+            message = "instead you can use, white chocolate, milk chocolate or dark chocolate, do you have any of these ingredients?"
+        if name == "coca":
+            message = "instead you can use, jackfruit seeds, do you have any of these ingredients?"
+        if name == "garam masala":
+            message = "instead you can use, curry powder, allspice powder or chaat powder, do you have any of these ingredients?"
+        if name == "arbol chili powder":
+            message = "instead you can use, cayenne powder or generic chili powder, do you have any of these ingredients?"
+        if name == "ghee":
+            message = "instead you can use, olive oil, coconut oil, canola oil, soybean oil, sunflower oil or butter, do you have any of these ingredients?"
+        if name == "turkey tenderloin":
+            message = "instead you can use, turkey breast fillets or turkey bacon, do you have any of these ingredients?"
+        if name == "Egg noodles":
+            message = "instead you can use, fettucine, ribbon pasta, linguine or brown / white rice, do you have any of these ingredients?"
+        if name == "Chicken liver":
+            message = "instead you can use, duck liver, turkey liver or goose liver, do you have any of these ingredients?"
+        if name == "Chicken gizzard":
+            message = "instead you can use, turkey gizzard or goose gizzard, do you have any of these ingredients?"
+        if name == "Bell pepper":
+            message = "instead you can use, anahiem peppers, Jalapenos, pimiento or zucchini, do you have any of these ingredients?"
+        if name == "Small head wombok":
+            message = "instead you can use other cabbages such as red, white or napa cabbage, do you have any of these ingredients?"
+        if name == "Oyster sauce":
+            message = "instead you can use, soy sauce, sweet soy sauce, hoisin sauce or plumb sauce, do you have any of these ingredients?"
+        if name == "Calamansi":
+            message = "instead you can use lemon and lime juices, do you have any of these ingredients?"
+        if name == "Dry white wine":
+            message = "instead you can use white wine vinegar, do you have any of these ingredients?"
+        if name == "Orange Roughy":
+            message = "instead you can use perch, blackfish, flounder, sole, haddock or red snapper, do you have any of these ingredients?"
+        if name == "Limes":
+            message = "instead you can use orange, lemon or zest, do you have any of these ingredients?"
+        if name == "Serrano peppers":
+            message = "instead you can use jalapeno, habanero, cayenne, guero or poblano pepper, do you have any of these ingredients?"
+        if name == "Avocado":
+            message = "instead you can use chai seeds or tree nuts, do you have any of these ingredients?"
+        if name == "Honey":
+            message = "instead you can use rice maly syrup, brown rice syrup, molasses, coconut syrup, maple syrup or golden syrup, do you have any of these ingredients?"
+        if name == "Roma tomato":
+            message = "instead you can use polish paste, plum or oxheart tomatoes, do you have any of these ingredients?"
+        if name == "Yellow rice":
+            message = "instead you can use white rice, brown rice, long grain rice or egg fried rice, do you have any of these ingredients?"
+        if name == "Bisquick":
+            message = "instead you can use 1 cup of all purpose flow mixed with 1 and a half teaspoons of baking powder, half a teaspoon or salt and one tablespoon of vegetable oil, do you have any of these ingredients?"
+        if name == "Smoked paprika":
+            message = "instead you can use hungarian paprika, sweer paprika, chipolatle chili or liquid smoke, do you have any of these ingredients?"
+        if name == "split pig's feet":
+            message = "instead you can use, ham hocks or ham shanks, do you have any of these ingredients?"    
+        if name == "chicken bouillon cube":
+            message = "instead you can use,chicken broth, dry white wine, poultry seasoning with water, do you have any of these ingredients?"
+        if name == "butternut squash and beet noodles":
+            message = "instead you can use, cucumber noodles,carrot noodles, raddish noodles, summer squash noodles, spiralized kohlrabi, sweet potato noodles or zucchini noodles, do you have any of these ingredients?"
+        if name == "bosc pears":
+            message = "instead you can use, asian pears, apples, quinces or figs, do you have any of these ingredients?"
+        if name == "pecans":
+            message = "instead you can use, hazelnuts, pistachios, macadamia nuts, brazil nuts, walnuts or pecan oil, do you have any of these ingredients?"
+        if name == "canola oil":
+            message = "instead you can use, grapeseed oil, vegetable oil or sunflower oil , do you have any of these ingredients?"
+        if name == "vodka":
+            message = "instead you can use, water, apple cide vinegar or white grae juice mixed with lime juice; aquavit, tequila or white rum, do you have any of these ingredients?"
+        if name == "cane sugar":
+            message = "instead you can use, honey, maple syrup, applesauce, caster sugar, brown sugar, raw sugar, powdered sugar, molasses or corn syrup, do you have any of these ingredients?"
+        if name == "apple cider vinegar":
+            message = "instead you can use, red or white wine vinegar, rice vinegar, sherry vinegar, champagne vinegar or lemon juice, do you have any of these ingredients?"
+        if name == "jasmine rice":
+            message = "instead you can use, basmati rice or long-grain rice, do you have any of these ingredients?"
+        if name == "ground cinnamon":
+            message = "instead you can use, nutmeg, cloves, allspice or apple pie spice, do you have any of these ingredients?"
+        if name == "canned plum tomatoes":
+            message = "instead you can use, regular tomatoes and tomato paste, fresh tomatoes and canned whole tomatoes or sun-dried tomatoe, do you have any of these ingredients?"
+        if name == "can of tomato sauce":
+            message = "instead you can use, ketchup, tomato soup or tomato paste, do you have any of these ingredients?"
+        if name == "can of tomato sauce":
+            message = "instead you can use, asian pears, apples, quinces or figs, do you have any of these ingredients?"
+        if name == "coconut cream":
+            message = "instead you can use, coconut milk, whipping cream, nut butter, tahini, greek yogurt or creamy tomato sauce, do you have any of these ingredients?"
+        if name == "sugar":
+            message = "instead you can use, honey, maple syrup, applesauce, molasses, cane sugar or brown sugar, do you have any of these ingredients?"
+        if name == "all-purpose flour":
+            message = "instead you can use, chickpea flour, rice flour, almond flour, buckwheat flour or a mixture of bread flour with cake flour, do you have any of these ingredients?"
+        if name == "baking powder":
+            message = "instead you can use, buttermilk, plain yogurt, molasses, cream of tartar, sour milk, vinegar, lemon juice, baking soda, self-rising flour or whipped egg whites, do you have any of these ingredients?"
+        if name == "baking soda":
+            message = "instead you can use, baking powder, potassium bicarbonate and salt, self-rising flour or baker's ammonia, do you have any of these ingredients?"
+        if name == "grated nutmeg":
+            message = "instead you can use, ground nutmeg, mace, garam masala, allspice, cinamon, pumpkin pie spice, appke pie spice, ginger or cloves, do you have any of these ingredients?"
+        if name == "ginger powder":
+            message = "instead you can use, ground allspice, ground cinnamon, ground mace or ground nutmeg, do you have any of these ingredients?"
+        if name == "granulated sugar":
+            message = "instead you can use, honey, maple syrup, applesauce, caster sugar, brown sugar, powdered sugar, molasses or corn syrup, do you have any of these ingredients?"
+        if name == "packed light brown sugar":
+            message = "instead you can use,white sugar and molasses, honey, white sugar and maple syrup, coconut sugar, maple syryp, agave nectar or plain white sugar, do you have any of these ingredients?"
+        if name == "canned unsweetened pumpkin puree":
+            message = "instead you can use, frozen butternut squash, sweet potatoes, roasted acorn squash or fresh pumpkin puree do you have any of these ingredients?"
+        if name == "cranberries":
+            message = "instead you can use, apricots, apples, cherries, raspberries blueberries or currants, do you have any of these ingredients?"
+        if name == "maple syrup":
+            message = "instead you can use, honey, brown sugar, white sugar, molasses orcorn syrup, do you have any of these ingredients?"
+        if name == "turkey neck":
+            message = "instead you can use chicken quarters, do you have any of these ingredients?"
+        if name == "celery sticks":
+            message = "instead you can use; fennel, onion, scallions, carrots, shallots, garlic, chives or leeks, do you have any of these ingredients?"
+        if name == "tamari":
+            message = "instead you can use; soy sauce, fish sauce, salt, miso paste, teriyaki sauce or maggi seasoning, do you have any of these ingredients?"
+        if name == "walnuts":
+            message = "instead you can use; almonds, cashews, filberst, brazil nuts or macadamia nuts, do you have any of these ingredients?"
+        if name == "whole milk":
+            message = "instead you can use; semi-skimmed milk, double cream, yogurt, sour cream, soy milk or coconut milk, do you have any of these ingredients?"
+        if name == "red currant":
+            message = "instead you can use; raisins, dried dates, dried prunes, dried cherries, cranberries or jujube, do you have any of these ingredients?"
+        if name == "raspberry jelly":
+            message = "instead you can use; strawberry jelly, cranberry jelly or red currants , do you have any of these ingredients?"
+        if name == "bittersweet chocolate":
+            message = "instead you can use; unsweetened baking chocolate and sugar or semisweet chocolate with cocoa powder, do you have any of these ingredients?"
+        if name == "unsweetened cocoa powder":
+            message = "instead you can use; melted unsweetened baking chocolate, dutch-processed cocoa or carob powder, do you have any of these ingredients?"
+        if name == "buttermilk":
+            message = "instead you can use; milk and vinegar, milk and lemon juice, milk and cream of tartar, sour cream and water, plain yogurt and water or plain kefir, do you have any of these ingredients?"
+        if name == "semisweet chocolate chips":
+            message = "instead you can use; bittersweet baking chocolate, unsweetened cocoa powder, or unsweetened baking chocolate do you have any of these ingredients?"
+        if name == "cream of tartar":
+            message = "instead you can use; lemon juice, white vinegar, baking powder, buttermilk or yogurt, do you have any of these ingredients?"
+        if name == "egg whites":
+            message = "instead you can use; aquafaba, ground flax seeds and water, agar powder and water or chia seeds and water, do you have any of these ingredients?"
+        if name == "dark brown sugar":
+            message = "instead you can use,white sugar and molasses, honey, white sugar and maple syrup, coconut sugar, maple syryp, agave nectar or plain white sugar, do you have any of these ingredients?"
+        if name == "vegetable oil":
+            message = "instead you can use, canola oil, sunflower oil, peanut oil or grapeseed oil, do you have any of these ingredients?"
+        if name == "ground nutmeg":
+            message = "instead you can use, grated nutmeg, mace, garam masala, allspice, cinamon, pumpkin pie spice, appke pie spice, ginger or cloves, do you have any of these ingredients?"
+        if name == "old-fashioned rolled-oats":
+            message = "instead you can use, qionoa flakes, stell-cut oats or instant oats, do you have any of these ingredients?"
+        if name == "raisins":
+            message = "instead you can use, dried currants, dried cherries, dried cranberries, dried prunes, dried sates, dried apricot or dried pineapple, do you have any of these ingredients?"
+        if name == "vanilla":
+            message = "instead you can use, maple syrup, almond extract, bourbon, instant coffee, expresso powder or citrus zest, do you have any of these ingredients?"
+        if name == "lemon zest":
+            message = "instead you can use, lemon extract, lemon juice, another citrus zest or lemon peel, do you have any of these ingredients?"
+        if name == "parsnips":
+            message = "instead you can use, turnips, celery root, carrots, salsify, sweet potatoes or parsley root, do you have any of these ingredients?"
+        if name == "thyme leaves":
+            message = "instead you can use, oregano, majoram, basil, savory, poultry seasoning, italian seasoning, za'taar or herbes de provence, do you have any of these ingredients?"
+        if name == "white bread":
+            message = "instead you can use, oopsie bread, ezekiel bread, corn tortillas or rye bread, do you have any of these ingredients?"
+        if name == "canned cannellini beans":
+            message = "instead you can use, red kidney beans, great northern beans, navy beans, baby lima beans, butter beans, garbanzo beans, borlotti beans or black beans, do you have any of these ingredients?"
+        if name == "baby lima beans":
+            message = "instead you can use, fava beans, red kidney beans or white kidney beans, do you have any of these ingredients?"
+        if name == "large egg":
+            message = "instead you can use, any other size of egg, do you have any of these ingredients?"
+        if name == "powdered gelatin":
+            message = "instead you can use, agar agar powder, pectin powder, carrageean or guar gum, do you have any of these ingredients?"
+        if name == "ground beef":
+            message = "instead you can use, mushrooms, ground poultry, textured vegetable protein, lentils, tempeh, tofu, seitan or beans, do you have any of these ingredients?"
+        if name == "prociutto":
+            message = "instead you can use, ham, bacon, pancetta, capiola or spanish serrano ham, do you have any of these ingredients?"
+        if name == "parsley leaves":
+            message = "instead you can use, cilantro, celery leaves, carrot greens, chives or chervil, do you have any of these ingredients?"
+        if name == "crsuhed tomatoes":
+            message = "instead you can use, fresh tomatoes, diced tomatoes, tomato paste, tomato puree, whole peeled tomatoes or pasta sauce, do you have any of these ingredients?"
+        if name == "cooking wine":
+            message = "instead you can use, white grape juice and apple juice, apple cider, cranberry juice, ginger ale, white wine vinegar, red wine vingear, lemon juice, chicken broth or vegetable broth, do you have any of these ingredients?"
+        if name == "spaghetti":
+            message = "instead you can use, vermicelli, angel hair pasta or rice stick noodles, do you have any of these ingredients?"
+        if name == "red potatoes":
+            message = "instead you can use, yukon gold potatoes, white potatoes, yellow potatoes or russet potato, do you have any of these ingredients?"
+        if name == "chicken breasts":
+            message = "instead you can use, chicken cacciatora, shrimp aragonate, grilled scallops, seared duck breasts or roast trukey breasts, do you have any of these ingredients?"
+        if name == "marsala red wine":
+            message = "instead you can use, madeira, fortified wine, dru sherry, sherry wine and sweet vermouth, amontillado wine and pedro ximenez, port, white grape juice with brandy, non-fortified wine, pinot noir or dry white wine, do you have any of these ingredients?"
+        if name == "unflavoured gelatin":
+            message = "instead you can use, kudzu, pectin and sugar, arrowroot or agar agar, do you have any of these ingredients?"
+        if name == "porcini mushrooms":
+            message = "instead you can use, shiitake mushrooms, dried reconstituted shiitake mushrooms, mixed mushrooms or fresh button mushrooms, do you have any of these ingredients?"
+        if name == "cremini mushrooms":
+            message = "instead you can use, white button mushrooms, portobello mushrooms, shiitake mushrooms or aubergine, do you have any of these ingredients?"
+        if name == "white mushrooms":
+            message = "instead you can use, courgette, sun dried toamtoes, aubergine, garbanzo beans, russel potatoes, tofu or onions, do you have any of these ingredients?"
+        if name == "pasta sauce":
+            message = "instead you can use, toamato paste, ketchup or tomato soup do you have any of these ingredients?"
+        if name == "lasagna noodles":
+            message = "instead you can use, macaroni with tomato sauce or flat-sliced courgette, do you have any of these ingredients?"
+        if name == "mozzarella cheese":
+            message = "instead you can use, white cheddar cheese, provolone, gouda, parmesan, ricotta or feta cheese, do you have any of these ingredients?"
+        if name == "baking spray":
+            message = "instead you can use, butter or lard, do you have any of these ingredients?"
+        if name == "gruyere cheese":
+            message = "instead you can use, comte cheese, beaufort cheese, jalsberg cheese, emmentaler cheese, fontina and parmesan cheese, maasdam and edam cheese or raclette cheese, do you have any of these ingredients?"
+        if name == "cherries":
+            message = "instead you can use, canned cherries, fresh plums, fresh apricots or fresh nectarines, do you have any of these ingredients?"
+        if name == "yellow onions":
+            message = "instead you can use, red onion or white onion, ricotta or feta cheese, do you have any of these ingredients?"
+        if name == "mixed mushrooms":
+            message = "instead you can use, courgette, sun dried toamtoes, aubergine, garbanzo beans, russel potatoes, tofu or onions, do you have any of these ingredients?"
+        if name == "dried white beans":
+            message = "instead you can use, dried cannellini beans, dried navy beans, dried red beans or dried pinto beans, do you have any of these ingredients?"
+        if name == "canned peeled tomateos":
+            message = "instead you can use, crushed tomatoes, diced tomatoes or fresh tomatoes do you have any of these ingredients?"
+        if name == "swiss chard":
+            message = "instead you can use, mature spinach, mustard greens, kale or large bok choy, do you have any of these ingredients?"
+        if name == "kale":
+            message = "instead you can use, collard greens, english spinach, baby spinach, swiss chard, mustard greens, chinese broccoli, broccoli raab or turnip, do you have any of these ingredients?"
+        if name == "almond flour":
+            message = "instead you can use, wheat flour, all-purpose flour, cashew flour, macadamia flour, sunflower seed flour, oat flour or a combination of tapioca flour with coconut flour, do you have any of these ingredients?"
+        if name == "almond extract":
+            message = "instead you can use, vanilla extract or almond flavoured liquor do you have any of these ingredients?"
+        if name == "rose water":
+            message = "instead you can use, rose essence, jamaica flower water,orange flower water, vanilla extract, almond extract, lavender, lemon juice or cardamom, do you have any of these ingredients?"
+        if name == "food colouring":
+            message = "instead you can use, liquid chlorophyll, matcha powder, spirulina powder, whatgrass juice or parsley juice, do you have any of these ingredients?"
+        if name == "marzipan":
+            message = "instead you can use almond paste, do you have this ingredient?"
+        if name == "dried black beans":
+            message = "instead you can use, kidney beans, pinto beans, lentils, soyebans, chickpeas or peas, do you have any of these ingredients?"
+        if name == "lime juice":
+            message = "instead you can use, lemon juice, lime zest, orange juice or white wine vinegar, do you have any of these ingredients?"
+        if name == "red bell pepper":
+            message = "instead you can use, poblano peppers, anaheim peppers, jalapeños, sichuan peppers, cubanelle or red, yellow or orange peppers, do you have any of these ingredients?"
+        if name == "cocoa powder":
+            message = "instead you can use, a chocolate bar, chocolate chips, chocolate coverture, hot chocolate drink powder or carob powder, do you have any of these ingredients?"
+        if name == "agave syrup":
+            message = "instead you can use, honey, simple syrup, maple syrup, brown rice syrup, white sugar, corn syrup or any artificial sweeteners, do you have any of these ingredients?"
+        if name == "nutella":
+            message = "instead you can use, any other chocolate spread or hazelnut and chocolate spread, do you have any of these ingredients?"
+        if name == "maraschino cherries":
+            message = "instead you can use, fresh cherries, amarena cherries or luxardo maraschino cherries , do you have any of these ingredients?"
+        if name == "maraschino cherry juice":
+            message = "instead you can use cherry juice with sugar, do you have these ingredient?"
+        if name == "greek yogurt":
+            message = "instead you can use, plain yogurt, sour cream, buttermilk, cottage cheese or silken tofu, do you have any of these ingredients?"
+        if name == "roasted chicken meat":
+            message = "instead you can use rotisserie chicken meat, do you have any of these ingredients?"
+        if name == "old bay seasoning":
+            message = "instead you can make your own by combining 1 tablespoon celery salt, 3 whole bay leaves, 3/4 teaspoon brown mustard seeds, 1/2 teaspoon black peppercorns, 10 allspice berries, 10 whole cloves and 1/2 teaspoon paprika or use crab boil or pickling spice; do you have any of these ingredients?"
+        if name == "unsalted butter":
+            message = "instead you can use, shortening, vegetable oil or lard, do you have any of these ingredients?"
+        if name == "butterscotch chips":
+            message = "instead you can use, caramel chips, chocolate chips or carob chips, do you have any of these ingredients?"
+        if name == "sirloin steak":
+            message = "instead you can use, ribeye steak, new York strip steaks, round steak or flank steak, do you have any of these ingredients?"
+        if name == "dry mustard":
+            message = "instead you can use, dijon mustard or yellow mustard, do you have any of these ingredients?"
+        if name == "white wine":
+            message = "instead you can use, apple cider vinegar, chicken broth, apple juice, grape juice, white wine vinegar or ginger ale, do you have any of these ingredients?"
+        if name == "cauliflower":
+            message = "instead you can use, broccoli, courgette or lettuce, do you have any of these ingredients?"
+        if name == "orange zest":
+            message = "instead you can use, any other citrus fruit zest, fruit juice, fruit concentrate, pure extracts or vinegar, do you have any of these ingredients?"
+        if name == "green bell pepper":
+            message = "instead you can use, poblano peppers, anaheim peppers, jalapeños, sichuan peppers, pimientos, cubanelle, red bell peppers or yellow bell peppers, do you have any of these ingredients?"
+        if name == "chipotle chillies":
+            message = "instead you can use, fresh jalapeños, serrano peppers or poblano peppers, do you have any of these ingredients?"
+        if name == "chilli powder":
+            message = "instead you can use, paprika, cumin, garlic powder, onion powder, oregano or cayenne, do you have any of these ingredients?"
+        if name == "ground coriander":
+            message = "instead you can use, cumin, caraway, garam masala or curry powder, do you have any of these ingredients?"
+        if name == "ground cumin":
+            message = "instead you can use, ground coriander, caraway seeds, chilli powder, taco seasoning, curry powder, garam masala, paprika or fennel seeds, do you have any of these ingredients?"
+        if name == "ground buffalo":
+            message = "instead you can use, ground bison or ground beef, do you have any of these ingredients?"
+        if name == "pinto beans":
+            message = "instead you can use black beans, navy beans, borlotti beans, red beans, kidney beans, white beans or cannellini beans, do you have any of these ingredients?"
+        if name == "masa harina flour":
+            message = "instead you can use, corn meal, gritis, regular flour, ground corn tortillas, corn starch, fresh masa or masa preparada, do you have any of these ingredients?"
+        if name == "green beans":
+            message = "instead you can use, nopalitos, thin asparagus stalks or wax beans, do you have any of these ingredients?"
+        if name == "white flour":
+            message = "instead you can use, almond flour, coconut flour, quinoa flour, chickpea flour, brown rice flour, oat flour, spelt flour or buckwheat flour, do you have any of these ingredients?"
+        if name == "cardamom":
+            message = "instead you can use, cinnamon and cloves, cinnamon and nutmeg or allspice powder, do you have any of these ingredients?"
+        if name == "caster sugar":
+            message = "instead you can use granulated sugar, do you have this ingredient?"
+        if name == "free-range eggs":
+            message = "instead you can use, banana, flaxseed, chia seeds, applesauce or organic eggs, do you have any of these ingredients?"
+        if name == "shortening":
+            message = "instead you can use, butter, coconut oil, margarine, lard, vegetable oil or vegan butter, do you have any of these ingredients?"
+        if name == "vinegar":
+            message = "instead you can use, lemon or lemon juice, do you have any of these ingredients?"
+        if name == "mung beans":
+            message = "instead you can use, snow peas or pigeon peas, do you have any of these ingredients?"
+        if name == "hash browns":
+            message = "instead you can use, cauliflower hash browns, keto has browns or fries, do you have any of these ingredients?"
+        if name == "cream of chicken soup":
+            message = "instead you can use, sour cream, yogurt, tomato sauce or eggs and milk  do you have any of these ingredients?"
+        if name == "colby cheese":
+            message = "instead you can use, pata cabra cheese, fontina cheese, limburguer cheese or carciotta cheese, do you have any of these ingredients?"
+        if name == "sherry":
+            message = "instead you can use, white wine vinegar, apple cider vinegar, sherry vinegar or port wine, do you have any of these ingredients?"
+        if name == "sesame oil":
+            message = "instead you can use, perilla oil, walnut oil, oilve oil, canola oil, avocado oil, tahini or roasted sesame seed, do you have any of these ingredients?"
+        if name == "garlic sauce":
+            message = "instead you can use, harissa sauce, sriracha, ketchup with garlic or red pepper flakes, do you have any of these ingredients?"
+        if name == "red pepper flakes":
+            message = "instead you can use, dried peppers, ground cayenne pepper or chilli powder, do you have any of these ingredients?"
+        if name == "dill":
+            message = "instead you can use, fennel, thyme, rosemary, parsley, chevil, basil or tarragon, do you have any of these ingredients?"
+        if name == "smoked salmon":
+            message = "instead you can use, smked mackerel, sardines, or pink snapper, do you have any of these ingredients?"
+        if name == "arborio rice":
+            message = "instead you can use, pearled barley, basmati rice, brown rice, carnaroli rice, sushi rice, quinoa or bulgur wheat, do you have any of thse ingredients?"
+        if name == "marinara sauce":
+            message = "instead you can use tomato sauce mixed with water, do you have this ingredient?"
+        if name == "baby green peas":
+            message = "instead you can use, black-eyed peas, lima beans or fresh cranberry beans, do you have any of these ingredients?"
+        if name == "bread crumbs":
+            message = "instead you can use, almonds, walnuts, chia seeds or flax seeds, do you have any of these ingredients?"
+        if name == "flour tortillas":
+            message = "instead you can use, corn tortillas, grain-free tortillas, lettuce wraps or spinach wraps, , do you have any of these ingredients?"
+        if name == "chillies":
+            message = "instead you can use, red bell pepper flakes or smoked paprika, do you have any of these ingredients?"
+        if name == "guacamole":
+            message = "instead you can use, nut butter, pesto, edamame beans, hummus or mockamole, do you have any of these ingredients?"
+        if name == "refried beans":
+            message = "instead you can use, chilli beans, rattlesnake beans, red kidney beans or cranberry beans, do you have any of these ingredients?"
+        if name == "angel food cake mix":
+            message = "instead you can use sponge cake mix, do you have this ingredient?"
+        if name == "milkfish":
+            message = "instead you can use mullet fish, do you have this ingredient?"
+        if name == "calamansi juice":
+            message = "instead you can use, lime juice, orange juice, vinegar, citric acid, lemon zest, white wine, lemon extract or cream of tartar, do you have any of these ingredients?"
+        if name == "pickles":
+            message = "instead you can use, chopped dill pickles, freen olives, capers, green bell peppers, celery or cucumbers, do you have any of these ingredients?"
+        if name == "eggplant":
+            message = "instead you can use, okra, zuchinni, mushrooms, summer squash or root vegetables, do you have any of these ingredients?"
+        if name == "grapes":
+            message = "instead you can use, baby kiwi, mayhaw berries, white mulberries or elderberry, do you have any of these ingredients?"
+        if name == "pork":
+            message = "instead you can use, chicken or tempeh, do you have any of these ingredients?"
+        if name == "annatto powder":
+            message = "instead you can use, hibiscus powder, tumeric powder, nutmeg, beet powder and paprika, do you have any of these ingredients?"
+        if name == "kinchay":
+            message = "instead you can use, parsley, basil or herb mixtures, do you have any of these ingredients?"
